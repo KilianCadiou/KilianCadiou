@@ -10,7 +10,7 @@ Je suis quelqu'un de joyeux, j'adore les jeux de mots et les blagues qui peuvent
 
 J'ai découvert le monde de la Data en 2024, je termine ma formation de Data Analyste à la [Wild Code School](https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst) en mars et j'adore ce que je fais.
 
-🚧 **Mes projets**
+🚧 **Mes projets:**
 
 L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la rédaction des codes.
 
