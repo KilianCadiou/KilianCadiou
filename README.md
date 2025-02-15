@@ -10,11 +10,11 @@ Je suis quelqu'un de joyeux, j'adore les jeux de mots et les blagues qui peuvent
 
 J'ai découvert le monde de la Data en 2024, je termine ma formation de Data Analyste à la [Wild Code School](https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst) en mars et j'adore ce que je fait.
 
-🚧 **Voir mes projets**
+🚧 **Mes projets**
 
 • Site de recommandation de joueurs de football ⚽️ **Va te faire foot!**
 
-Voir le résultat | [Voir le code](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
+[Voir le résultat](https://kiliancadiou-va-te-faire-foot-streamlitstreamlit-app-xttkka.streamlit.app/) | [Voir le code](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
 
 • Site de recommandation de films 🎬 **The Rock'mendation**
 
