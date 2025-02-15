@@ -18,8 +18,6 @@ L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA.
 
 [Voir le résultat](https://kiliancadiou-va-te-faire-foot-streamlitstreamlit-app-xttkka.streamlit.app/) | [Voir le code](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
 
-
-
 • **The Rock'mendation** 🎬 Site de recommandation de films
 
 [Voir le résultat](https://kiliancadiou-the-rock-mendation-streamlitstreamlit-app-ilurtj.streamlit.app/) | [Voir le code](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
@@ -27,17 +25,6 @@ L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA.
 • **Les Sternes de Ploubaz'** 🏸 Site internet de mon club de badminton
 
 [Voir le résultat](https://www.les-sternes-de-ploubaz.com/)
-
-
-
-💬 **Mes citations préférées:**
-
-*"Peu importe que vous ayez du style, une réputation, ou de l'argent, si vous n'avez pas bon cœur, vous ne valez rien."*, Louis de Funès
-
-*"Il y a du bon en ce monde, Monsieur Frodon, et il faut se battre pour cela."*, Sam Gamegie le Brave
-
-*"Pourquoi tombons-nous ? Pour que nous puissions apprendre à nous relever."*, Batman
-
 
 🎯 **Ma recherche d'opportunités:**
 
@@ -64,6 +51,14 @@ Ouvert au télétravail partiel ou total.
 • Sport : Badminton 🏸 (Niveau régional), Course à pied 🏃, Vélo 🚲
     
 • Loisirs : Lecture 📚, Cinéma 🎥, Musique 🎶, Balades 🥾
+
+💬 **Mes citations préférées:**
+
+*"Peu importe que vous ayez du style, une réputation, ou de l'argent, si vous n'avez pas bon cœur, vous ne valez rien."*, Louis de Funès
+
+*"Il y a du bon en ce monde, Monsieur Frodon, et il faut se battre pour cela."*, Sam Gamegie le Brave
+
+*"Pourquoi tombons-nous ? Pour que nous puissions apprendre à nous relever."*, Batman
 
 📫 **Comment me contacter**
 
