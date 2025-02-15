@@ -34,6 +34,8 @@ Lieu de recherche : Rennes(35) et Alentours.
 
 Ouvert au télétravail partiel ou total.
 
+Accéder à mon CV -> [ICI](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing).
+
 🌱 **Mes compétences:**
 
 • Langages : Python, SQL, PostgreSQL, HTML, CSS, Dax
