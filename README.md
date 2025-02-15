@@ -29,6 +29,16 @@ L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA.
 [Voir le résultat](https://www.les-sternes-de-ploubaz.com/)
 
 
+
+💬 **Mes citations préférées:**
+
+"Peu importe que vous ayez du style, une réputation, ou de l'argent, si vous n'avez pas bon cœur, vous ne valez rien.", Louis de Funès
+
+"Il y a du bon en ce monde, Monsieur Frodon, et il faut se battre pour cela.", Sam Gamegie le Brave
+
+"Pourquoi tombons-nous ? Pour que nous puissions apprendre à nous relever.", Batman
+
+
 🎯 **Ma recherche d'opportunités:**
 
 Prochainement diplômé de la Wild Code School pour le titre RNCP de Data Analyst, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.
