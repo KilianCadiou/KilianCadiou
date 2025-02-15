@@ -42,7 +42,7 @@ Accéder à mon CV -> [ICI](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_
 
 🌱 **Mes compétences:**
 
-Pour avoir un aprecu des compétences acquises, vous pouvez jeter un oeil ici : [Exercices Wild Code School](https://github.com/KilianCadiou/Cours-Wild-Code-School)
+Pour avoir un aprecu des compétences acquises, vous pouvez jeter un coup d'oeil ici : [Exercices Wild Code School](https://github.com/KilianCadiou/Cours-Wild-Code-School)
 
 • Langages : Python, SQL, PostgreSQL, HTML, CSS, Dax
 
