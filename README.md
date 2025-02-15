@@ -11,12 +11,14 @@ Je suis quelqu'un de joyeux, j'adore les jeux de mots et les blagues qui peuvent
 J'ai découvert le monde de la Data en 2024, je termine ma formation de Data Analyste à la Wild Code School en mars et j'adore ce que je fait.
 
 
+
 🎯 **Ma recherche d'opportunités:**
 
 Prochainement diplômé de la Wild Code School pour le titre RNCP de Data Analyst, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.
 
 Lieu de recherche : Rennes(35) et Alentours.
 Ouvert au télétravail partiel ou total.
+
 
 
 🌱 **Mes compétences:**
@@ -32,12 +34,14 @@ Ouvert au télétravail partiel ou total.
 • Langues : Anglais (C2), Allemand (B1), Espagnol (A1)
 
 
+
 💁‍♂️ **Mes passions**
     
 • Sport : Badminton 🏸 (Niveau régional), Course à pied 🏃, Vélo 🚲
     
 • Loisirs : Lecture 📚, Cinéma 🎥, Musique 🎶, Balades 🥾
   
+
 
 📫 Comment me contacter
 
