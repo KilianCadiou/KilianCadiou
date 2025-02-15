@@ -14,7 +14,7 @@ J'ai découvert le monde de la Data en 2024, je termine ma formation de Data Ana
 
 • Site de recommandation de joueurs de football ⚽️ **Va te faire foot!**
 
-Voir le résultat | Voir le code
+Voir le résultat | [Voir le code](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
 
 • Site de recommandation de films 🎬 **The Rock'mendation**
 
