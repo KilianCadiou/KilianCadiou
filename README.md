@@ -18,7 +18,7 @@ Voir le résultat | Voir le code
 
 • Site de recommandation de films 🎬 **The Rock'mendation**
 
-Voir le résultat | [Voir le code](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
+[Voir le résultat](https://kiliancadiou-the-rock-mendation-streamlitstreamlit-app-ilurtj.streamlit.app/) | [Voir le code](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
 
 • Site internet de mon club de badminton 🏸 **Les Sternes de Ploubaz'**
 
