@@ -12,17 +12,17 @@ J'ai découvert le monde de la Data en 2024, je termine ma formation de Data Ana
 
 🚧 **Mes projets**
 
-• Site de recommandation de joueurs de football ⚽️ **Va te faire foot!**
+• **Va te faire foot!** ⚽️ Site de recommandation de joueurs de football
 
 [Voir le résultat](https://kiliancadiou-va-te-faire-foot-streamlitstreamlit-app-xttkka.streamlit.app/) | [Voir le code](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
 
 
 
-• Site de recommandation de films 🎬 **The Rock'mendation**
+• **The Rock'mendation** 🎬 Site de recommandation de films
 
 [Voir le résultat](https://kiliancadiou-the-rock-mendation-streamlitstreamlit-app-ilurtj.streamlit.app/) | [Voir le code](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
 
-• Site internet de mon club de badminton 🏸 **Les Sternes de Ploubaz'**
+• **Les Sternes de Ploubaz'** 🏸 Site internet de mon club de badminton
 
 [Voir le résultat](https://www.les-sternes-de-ploubaz.com/)
 
