@@ -12,13 +12,17 @@ J'ai découvert le monde de la Data en 2024, je termine ma formation de Data Ana
 
 🚧 **Voir mes projets**
 
-• Site de recommandation de joueurs de football ⚽️ **"Va te faire foot!"**
+• Site de recommandation de joueurs de football ⚽️ **Va te faire foot!**
 
 Voir le résultat | Voir le code
 
-• Site de recommandation de films 🎬 **"The Rock'mendation"**
+• Site de recommandation de films 🎬 **The Rock'mendation**
 
 Voir le résultat | Voir le code
+
+• Site internet de mon club de badminton 🏸 **Les Sternes de Ploubaz'**
+
+[Voir le résultat](https://www.les-sternes-de-ploubaz.com/)
 
 
 🎯 **Ma recherche d'opportunités:**
