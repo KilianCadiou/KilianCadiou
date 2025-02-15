@@ -24,7 +24,7 @@ L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la r
 
 • **Les Sternes de Ploubaz'** 🏸 Site internet de mon club de badminton
 
-[Voir le résultat](https://www.les-sternes-de-ploubaz.com/)
+[![Voir le résultat](https://www.les-sternes-de-ploubaz.com/)
 
 🎯 **Ma recherche d'opportunités:**
 
