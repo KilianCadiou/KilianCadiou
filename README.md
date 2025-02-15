@@ -12,6 +12,8 @@ J'ai découvert le monde de la Data en 2024, je termine ma formation de Data Ana
 
 🚧 **Mes projets**
 
+L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA.
+
 • **Va te faire foot!** ⚽️ Site de recommandation de joueurs de football
 
 [Voir le résultat](https://kiliancadiou-va-te-faire-foot-streamlitstreamlit-app-xttkka.streamlit.app/) | [Voir le code](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
