@@ -14,7 +14,7 @@ J'ai découvert le monde de la Data en 2024, je termine ma formation de Data Ana
 
 • Site de recommandation de joueurs de football ⚽️ **Va te faire foot!**
 
-[Voir le résultat](https://kiliancadiou-va-te-faire-foot-streamlitstreamlit-app-xttkka.streamlit.app/){:target="_blank"} | [Voir le code](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET){:target="_blank"}
+[Voir le résultat](https://kiliancadiou-va-te-faire-foot-streamlitstreamlit-app-xttkka.streamlit.app/) | [Voir le code](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
 
 
 
