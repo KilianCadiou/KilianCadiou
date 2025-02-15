@@ -16,13 +16,19 @@ L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la r
 
 • **Va te faire foot!** ⚽️ Site de recommandation de joueurs de football
 
+Mes apports principaux: Web Scraping, Streamlit, Construction de la base de données, HTML/CSS
+
 [Voir le résultat](https://kiliancadiou-va-te-faire-foot-streamlitstreamlit-app-xttkka.streamlit.app/) | [Voir le code](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
 
 • **The Rock'mendation** 🎬 Site de recommandation de films
 
+Mes apports principaux: Machine Learning, Construction de la base de données, Web Scraping
+
 [Voir le résultat](https://kiliancadiou-the-rock-mendation-streamlitstreamlit-app-ilurtj.streamlit.app/) | [Voir le code](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
 
 • **Les Sternes de Ploubaz'** 🏸 Site internet de mon club de badminton
+
+Mes apports principaux: Création et gestion du site
 
 [Voir le résultat](https://www.les-sternes-de-ploubaz.com/)
 
