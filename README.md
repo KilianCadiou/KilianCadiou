@@ -8,7 +8,7 @@ Aujourd'hui je recherche une nouvelle opportunité professionnelle dans le domai
 
 Je suis quelqu'un de joyeux, j'adore les jeux de mots et les blagues qui peuvent ne faire rire que moi. J'ai des goûts très éclectiques dans les domaines du cinéma ou de la musique.
 
-J'ai découvert le monde de la Data en 2024, je termine ma formation de Data Analyste à la [Wild Code School](https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst) en mars et j'adore ce que je fait.
+J'ai découvert le monde de la Data en 2024, je termine ma formation de Data Analyste à la [Wild Code School](https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst) en mars et j'adore ce que je fais.
 
 🚧 **Mes projets**
 
@@ -30,9 +30,7 @@ L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la r
 
 Prochainement diplômé de la Wild Code School pour le titre RNCP de Data Analyst, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.
 
-Lieu de recherche : Rennes(35) et Alentours.
-
-Ouvert au télétravail partiel ou total.
+Lieu de recherche : Rennes(35) et Alentours. Ouvert au télétravail partiel ou total.
 
 Accéder à mon CV -> [ICI](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing).
 
