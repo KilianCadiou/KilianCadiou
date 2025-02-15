@@ -30,6 +30,7 @@ J'ai découvert le monde de la Data en 2024, je termine ma formation de Data Ana
 Prochainement diplômé de la Wild Code School pour le titre RNCP de Data Analyst, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.
 
 Lieu de recherche : Rennes(35) et Alentours.
+
 Ouvert au télétravail partiel ou total.
 
 🌱 **Mes compétences:**
