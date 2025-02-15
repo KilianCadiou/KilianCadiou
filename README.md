@@ -10,6 +10,15 @@ Je suis quelqu'un de joyeux, j'adore les jeux de mots et les blagues qui peuvent
 
 J'ai découvert le monde de la Data en 2024, je termine ma formation de Data Analyste à la Wild Code School en mars et j'adore ce que je fait.
 
+🚧 **Voir mes projets**
+
+• Site de recommandation de joueurs de football ⚽️ **"Va te faire foot!"**
+
+Voir le résultat | Voir le code
+
+• Site de recommandation de films 🎬 **"The Rock'mendation"**
+
+Voir le résultat | Voir le code
 
 
 🎯 **Ma recherche d'opportunités:**
@@ -19,31 +28,25 @@ Prochainement diplômé de la Wild Code School pour le titre RNCP de Data Analys
 Lieu de recherche : Rennes(35) et Alentours.
 Ouvert au télétravail partiel ou total.
 
-
-
 🌱 **Mes compétences:**
 
 • Langages : Python, SQL, PostgreSQL, HTML, CSS, Dax
 
 • Logiciels : Power BI, VS Code, SQL Workbench, DBeaver, Tableau, GitHub, StreamLit, AWS, Talend, Big Query
 
-• Compétences : Pandas, Numpy, Matplotlib, Seaborn, Plotly, Sci-Kit Learn, Web Scaping, Web Crawling, API, NLP, JSON, Geocoding, Excel
+• Compétences : Pandas, Numpy, è, Seaborn, Plotly, Sci-Kit Learn, Web Scaping, Web Crawling, API, NLP, JSON, Geocoding, Excel
 
 • Environnements : Microsoft, Apple
 
 • Langues : Anglais (C2), Allemand (B1), Espagnol (A1)
-
-
 
 💁‍♂️ **Mes passions**
     
 • Sport : Badminton 🏸 (Niveau régional), Course à pied 🏃, Vélo 🚲
     
 • Loisirs : Lecture 📚, Cinéma 🎥, Musique 🎶, Balades 🥾
-  
 
-
-📫 Comment me contacter
+📫 **Comment me contacter**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiliancadiou@gmail.com)
 
