@@ -28,7 +28,7 @@ Mes apports principaux: Machine Learning, Construction de la base de données, W
 
 • **Les Sternes de Ploubaz'** 🏸 Site internet de mon club de badminton
 
-Mes apports principaux: Création et gestion du site
+Mes apports principaux: Création et gestion du site via WIX
 
 [Voir le résultat](https://www.les-sternes-de-ploubaz.com/)
 
