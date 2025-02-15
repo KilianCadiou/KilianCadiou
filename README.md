@@ -12,7 +12,7 @@ J'ai découvert le monde de la Data en 2024, je termine ma formation de Data Ana
 
 🚧 **Mes projets**
 
-L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA.
+L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la rédaction des codes.
 
 • **Va te faire foot!** ⚽️ Site de recommandation de joueurs de football
 
