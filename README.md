@@ -38,11 +38,11 @@ Prochainement diplômé de la Wild Code School pour le titre RNCP de Data Analys
 
 Lieu de recherche : Rennes(35) et Alentours. Ouvert au télétravail partiel ou total.
 
-Accéder à mon CV -> [ICI](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing).
+Accéder à mon CV -> [![Site internet](https://img.shields.io/badge/Mon%20CV-white?logo=googledrive&logoColor=green)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
 
 ### 🌱 **Mes compétences:**
 
-Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oeil ici : [Exercices Wild Code School](https://github.com/KilianCadiou/Cours-Wild-Code-School)
+Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oeil ici : [![Exercices Wild Code School](https://img.shields.io/badge/Exercices%20Wild%20Code%20School-red?logo=googlescholar&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
 
 • Langages : Python, SQL, PostgreSQL, HTML, CSS, Dax
 
