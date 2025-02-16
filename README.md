@@ -42,7 +42,7 @@ Accéder à mon CV -> [![Site internet](https://img.shields.io/badge/Mon%20CV-wh
 
 ### 🌱 **Mes compétences:**
 
-Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oeil ici : [![Exercices Wild Code School](https://img.shields.io/badge/Exercices%20Wild%20Code%20School-red?logo=googlescholar&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
+Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oeil ici : [![Exercices Wild Code School](https://img.shields.io/badge/Exercices%20Wild%20Code%20School-red?logo=googlescholar&logoColor=white)](https://github.com/KilianCadiou/Cours-Wild-Code-School)
 
 • Langages : Python, SQL, PostgreSQL, HTML, CSS, Dax
 
