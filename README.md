@@ -34,11 +34,15 @@ Mes principaux apports: Création et gestion du site via WIX
 
 ### 🎯 **Ma recherche d'opportunités:**
 
-Prochainement diplômé de la Wild Code School pour le titre RNCP de Data Analyst, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.
+Prochainement diplômé de la Wild Code School pour le titre RNCP niveau 6 de Data Analyst, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.
 
 Lieu de recherche : Rennes(35) et Alentours. Ouvert au télétravail partiel ou total.
 
-Accéder à mon CV -> [![Site internet](https://img.shields.io/badge/Mon%20CV-white?logo=googledrive&logoColor=green)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
+Ma formation initiale: Master en Entrepreneuriat *(Inseec Business School, Bordeaux)* à la suite d'une Classe Préparatoire ECE *(Lycée Kerichen, Brest)*.
+
+Mon parcours professionnel: J'ai évolué durant 4 ans en tant que Consultant en Recrutement puis durant 4 ans en tant que Conseiller en Création & Reprise d'entreprise.
+
+Pour accéder à mon CV -> [![Site internet](https://img.shields.io/badge/Mon%20CV-white?logo=googledrive&logoColor=green)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
 
 ### 🌱 **Mes compétences:**
 
@@ -59,6 +63,13 @@ Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oei
 • Sport : Badminton 🏸 (Niveau régional), Course à pied 🏃, Vélo 🚲
     
 • Loisirs : Lecture 📚, Cinéma 🎥, Musique 🎶, Balades 🥾
+
+### ✈️ **Mes voyages**
+
+Inde 🇮🇳 (6 mois), Berlin 🇩🇪 (6 mois), Espagne 🇪🇸,  Portugal 🇵🇹, Allemagne 🇩🇪,  Italie 🇮🇹, Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿, Belgique 🇧🇪, Pays-Bas 🇳🇱.
+
+J'adore également découvrir d'autres régions en France 🇫🇷.
+
 
 ### 💬 **Mes citations préférées:**
 
