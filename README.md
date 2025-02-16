@@ -31,7 +31,7 @@ Mes principaux apports: Machine Learning, Construction de la base de données, W
 
 Mes principaux apports: Création et gestion du site via WIX
 
-[![Site internet](https://img.shields.io/badge/Site%20Internet-gray?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)
+[![Site internet](https://img.shields.io/badge/Site%20Internet-white?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)
 
 ### 🎯 **Ma recherche d'opportunités:**
 
