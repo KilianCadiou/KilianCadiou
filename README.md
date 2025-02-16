@@ -31,7 +31,7 @@ Mes principaux apports: Machine Learning, Construction de la base de données, W
 
 Mes principaux apports: Création et gestion du site via WIX
 
-[![Site internet](https://img.shields.io/badge/Site%20Internet-white?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)
+[![Site internet](https://img.shields.io/badge/Site%20Internet-gray?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)
 
 ### 🎯 **Ma recherche d'opportunités:**
 
@@ -43,11 +43,11 @@ Ma formation initiale: Master en Entrepreneuriat *(Inseec Business School, Borde
 
 Mon parcours professionnel: J'ai évolué durant 4 ans en tant que Consultant en Recrutement puis durant 4 ans en tant que Conseiller en Création & Reprise d'entreprise.
 
-Pour accéder à mon CV -> [![Site internet](https://img.shields.io/badge/Mon%20CV-white?logo=googledrive&logoColor=green)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
+Pour accéder à mon CV -> [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
 
 ### 🌱 **Mes compétences:**
 
-Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oeil ici : [![Exercices Wild Code School](https://img.shields.io/badge/Exercices%20Wild%20Code%20School-white?logo=googlescholar&logoColor=red)](https://github.com/KilianCadiou/Cours-Wild-Code-School)
+Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oeil ici : [![Exercices Wild Code School](https://img.shields.io/badge/Exercices%20Wild%20Code%20School-gray?logo=googlescholar&logoColor=red)](https://github.com/KilianCadiou/Cours-Wild-Code-School)
 
 • Langages : Python, SQL, PostgreSQL, HTML, CSS, Dax
 
