@@ -62,7 +62,7 @@ Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oei
 
 ### 💬 **Mes citations préférées:**
 
-*"Ce n’est pas parce que les choses sont difficiles que nous n’osons pas. C’est parce que nous n’osons pas qu’elles sont difficiles"*. Sénèque.
+*"Ce n’est pas parce que les choses sont difficiles que nous n’osons pas. C’est parce que nous n’osons pas qu’elles sont difficiles."*, Sénèque.
 
 *"Peu importe que vous ayez du style, une réputation, ou de l'argent, si vous n'avez pas bon cœur, vous ne valez rien."*, Louis de Funès.
 
