@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-#### 🤔 **Qui suis-je ?**
+### 🤔 **Qui suis-je ?**
 
 J'ai 31 ans, je suis Breton, je fais du badminton 2 à 3 fois par semaine, en plus des compétitions du week-end.
 
@@ -10,7 +10,7 @@ Je suis quelqu'un de joyeux, j'adore les jeux de mots et les blagues qui peuvent
 
 J'ai découvert le monde de la Data en 2024, je termine ma formation de Data Analyste à la [Wild Code School](https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst) en mars et j'adore ce que je fais.
 
-🚧 **Mes projets:**
+### 🚧 **Mes projets:**
 
 L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la rédaction des codes.
 
@@ -32,7 +32,7 @@ Mes apports principaux: Création et gestion du site via WIX
 
 [Voir le résultat](https://www.les-sternes-de-ploubaz.com/)
 
-🎯 **Ma recherche d'opportunités:**
+### 🎯 **Ma recherche d'opportunités:**
 
 Prochainement diplômé de la Wild Code School pour le titre RNCP de Data Analyst, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.
 
@@ -40,7 +40,7 @@ Lieu de recherche : Rennes(35) et Alentours. Ouvert au télétravail partiel ou 
 
 Accéder à mon CV -> [ICI](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing).
 
-🌱 **Mes compétences:**
+### 🌱 **Mes compétences:**
 
 Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oeil ici : [Exercices Wild Code School](https://github.com/KilianCadiou/Cours-Wild-Code-School)
 
@@ -54,13 +54,13 @@ Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oei
 
 • Langues : Anglais (C2), Allemand (B1), Espagnol (A1)
 
-💁‍♂️ **Mes passions**
+### 💁‍♂️ **Mes passions**
     
 • Sport : Badminton 🏸 (Niveau régional), Course à pied 🏃, Vélo 🚲
     
 • Loisirs : Lecture 📚, Cinéma 🎥, Musique 🎶, Balades 🥾
 
-💬 **Mes citations préférées:**
+### 💬 **Mes citations préférées:**
 
 *"Peu importe que vous ayez du style, une réputation, ou de l'argent, si vous n'avez pas bon cœur, vous ne valez rien."*, Louis de Funès.
 
@@ -68,7 +68,7 @@ Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oei
 
 *"Pourquoi tombons-nous ? Pour que nous puissions apprendre à nous relever."*, Thomas Wayne.
 
-📫 **Comment me contacter**
+### 📫 **Comment me contacter**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kiliancadiou@gmail.com)   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kiliancadiou/)
 
