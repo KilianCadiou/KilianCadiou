@@ -34,12 +34,17 @@ Mes principaux apports: Création et gestion du site via WIX
 
 [![Site internet](https://img.shields.io/badge/Site%20Internet-white?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)
 
-• **Analyse du marché immobilier de l'Ain** 🏠 *Business Case Power Bi*
+• **Analyse du marché immobilier de l'Ain** 🏠 *Business Case PowerBi*
 
 Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi
 
-[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://github.com/KilianCadiou/Business-Case_Immobilier-Ain/blob/main/Analyse%20du%20march%C3%A9%20de%20l%E2%80%99immobilier%20dans%20l%E2%80%99Ain.gslides)   [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://github.com/KilianCadiou/Business-Case_Immobilier-Ain/blob/main/Business%20Case.pbix)
+[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://github.com/KilianCadiou/Business-Case_Location_Velos/blob/main/Analyse%20de%20l'activit%C3%A9%20de%20Cyclistic.gslides)   [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://github.com/KilianCadiou/Business-Case_Immobilier-Ain/blob/main/Business%20Case.pbix)
 
+• **Analyse de l'activité d'une entreprise location de vélos** 🏠 *Business Case PowerBi*
+
+Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi
+
+[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://github.com/KilianCadiou/Business-Case_Immobilier-Ain/blob/main/Analyse%20du%20march%C3%A9%20de%20l%E2%80%99immobilier%20dans%20l%E2%80%99Ain.gslides)   [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1idIZ_TFeCWdS8JlQg3g6C0tjBACqD03L/view?usp=sharing)
 
 ### 🎯 **Ma recherche d'opportunités:**
 
