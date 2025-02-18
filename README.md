@@ -50,18 +50,6 @@ Mes principaux apports: Création et gestion du site via WIX
 
 [![Site internet](https://img.shields.io/badge/Site%20Internet-white?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)
 
-### 🎯 **Ma recherche d'opportunités:**
-
-Prochainement diplômé de la Wild Code School pour le titre RNCP niveau 6 de Data Analyst, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.
-
-Lieu de recherche : Rennes(35) et Alentours. Ouvert au télétravail partiel ou total.
-
-Ma formation initiale: Master en Entrepreneuriat *(Inseec Business School, Bordeaux)* à la suite d'une Classe Préparatoire ECE *(Lycée Kerichen, Brest)*.
-
-Mon parcours professionnel: J'ai évolué durant 4 ans en tant que Consultant en Recrutement puis durant 4 ans en tant que Conseiller en Création & Reprise d'entreprise.
-
-Pour accéder à mon CV -> [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
-
 ### 🌱 **Mes compétences:**
 
 Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oeil ici : [![Exercices Wild Code School](https://img.shields.io/badge/Exercices%20Wild%20Code%20School-gray?logo=googlescholar&logoColor=red)](https://github.com/KilianCadiou/Cours-Wild-Code-School)
@@ -75,6 +63,18 @@ Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oei
 • Environnements : Microsoft, Apple
 
 • Langues : Anglais (C2), Allemand (B1), Espagnol (A1)
+
+### 🎯 **Ma recherche d'opportunités:**
+
+Prochainement diplômé de la Wild Code School pour le titre RNCP niveau 6 de Data Analyst, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.
+
+Lieu de recherche : Rennes(35) et Alentours. Ouvert au télétravail partiel ou total.
+
+Ma formation initiale: Master en Entrepreneuriat *(Inseec Business School, Bordeaux)* à la suite d'une Classe Préparatoire ECE *(Lycée Kerichen, Brest)*.
+
+Mon parcours professionnel: J'ai évolué durant 4 ans en tant que Consultant en Recrutement puis durant 4 ans en tant que Conseiller en Création & Reprise d'entreprise.
+
+Pour accéder à mon CV -> [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
 
 ### 💁‍♂️ **Mes passions**
     
