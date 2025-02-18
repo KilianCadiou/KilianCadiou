@@ -32,12 +32,6 @@ Mes principaux apports: Machine Learning, Construction de la base de données, W
 
 [![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://kiliancadiou-the-rock-mendation-streamlitstreamlit-app-ilurtj.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
 
-• **Les Sternes de Ploubaz'** 🏸 *Site internet de mon club de badminton*
-
-Mes principaux apports: Création et gestion du site via WIX
-
-[![Site internet](https://img.shields.io/badge/Site%20Internet-white?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)
-
 • **Analyse du marché immobilier de l'Ain** 🏠 *Business Case PowerBi*
 
 Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi
@@ -49,6 +43,12 @@ Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi
 Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi
 
 [![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1874wNFycSrQxWFzQNfWoT8DQu_7Mp_bchZDt6U5i7Ew/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1idIZ_TFeCWdS8JlQg3g6C0tjBACqD03L/view?usp=sharing)
+
+• **Les Sternes de Ploubaz'** 🏸 *Site internet de mon club de badminton*
+
+Mes principaux apports: Création et gestion du site via WIX
+
+[![Site internet](https://img.shields.io/badge/Site%20Internet-white?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)
 
 ### 🎯 **Ma recherche d'opportunités:**
 
