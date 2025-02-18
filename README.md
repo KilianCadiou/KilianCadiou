@@ -19,7 +19,7 @@ L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la r
 <details>
   <summary>Voir les projets :</summary>
   <ul>
-    <li>**Va te faire foot!** ⚽️ *Site de recommandation de joueurs de football*
+    <li> **Va te faire foot!** ⚽️ *Site de recommandation de joueurs de football*
 
 Mes principaux apports: Web Scraping, Streamlit, Construction de la base de données, HTML/CSS
 
