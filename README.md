@@ -38,7 +38,7 @@ Mes principaux apports: Création et gestion du site via WIX
 
 Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi
 
-[![Présentation](https://img.shields.io/badge/Présentation-white?logo=paypal&logoColor=orange)](https://github.com/KilianCadiou/Business-Case_Immobilier-Ain/blob/main/Analyse%20du%20march%C3%A9%20de%20l%E2%80%99immobilier%20dans%20l%E2%80%99Ain.gslides)   [![PowerBi](https://img.shields.io/badge/PowerBi-black?logo=readme&logoColor=yeallow)](https://github.com/KilianCadiou/Business-Case_Immobilier-Ain/blob/main/Business%20Case.pbix)
+[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://github.com/KilianCadiou/Business-Case_Immobilier-Ain/blob/main/Analyse%20du%20march%C3%A9%20de%20l%E2%80%99immobilier%20dans%20l%E2%80%99Ain.gslides)   [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://github.com/KilianCadiou/Business-Case_Immobilier-Ain/blob/main/Business%20Case.pbix)
 
 
 ### 🎯 **Ma recherche d'opportunités:**
