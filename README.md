@@ -13,11 +13,23 @@ J'ai découvert le monde de la Data en 2024, je termine ma formation de [Data An
 Aujourd'hui je recherche une nouvelle opportunité professionnelle dans le domaine de la Data sur Rennes (plus de détails 👇).
 
 <details>
-  <summary>Cliquez ici pour dérouler la liste</summary>
+  <summary>Voir les projets :</summary>
   <ul>
-    <li>Élément 1</li>
-    <li>Élément 2</li>
-    <li>Élément 3</li>
+    <li>• **Va te faire foot!** ⚽️ *Site de recommandation de joueurs de football*
+
+Mes principaux apports: Web Scraping, Streamlit, Construction de la base de données, HTML/CSS
+
+[![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://kiliancadiou-va-te-faire-foot-streamlitstreamlit-app-xttkka.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)</li>
+    <li>• **The Rock'mendation** 🎬 *Site de recommandation de films*
+
+Mes principaux apports: Machine Learning, Construction de la base de données, Web Scraping
+
+[![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://kiliancadiou-the-rock-mendation-streamlitstreamlit-app-ilurtj.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)</li>
+    <li>• **Les Sternes de Ploubaz'** 🏸 *Site internet de mon club de badminton*
+
+Mes principaux apports: Création et gestion du site via WIX
+
+[![Site internet](https://img.shields.io/badge/Site%20Internet-white?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)</li>
   </ul>
 </details>
 
