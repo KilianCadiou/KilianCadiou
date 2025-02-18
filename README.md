@@ -4,7 +4,7 @@
 
 J'ai 31 ans, je suis Breton, je fais du badminton 2 à 3 fois par semaine, en plus des compétitions du week-end. J'adore le sport, la musique, le cinéma, la nature. Et maintenant la Data.
 
-Je suis quelqu'un de joyeux, j'adore les jeux de mots et les blagues qui peuvent ne faire rire que moi. J'ai des goûts très éclectiques dans les domaines du cinéma ou de la musique.
+Je suis quelqu'un de très curieux, joyeux, j'adore les jeux de mots et les blagues qui peuvent ne faire rire que moi. J'ai des goûts très éclectiques dans les domaines du cinéma ou de la musique.
 
 Professionnellement, je suis rigoureux, perspicace et persévérant. J'aime autant le travail en équipe, où je peux être un élément moteur, comme le travail individuel.
 
