@@ -44,7 +44,7 @@ Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi
 
 [![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1ms_TwqjDWaEO29dC5yuYlfCDBVZCOUtZ_bHCcvMnhuc/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1ieWIK9jj1fWriTRSfxywm4fACXYKNpM_/view?usp=sharing)
 
-• **Analyse de l'activité d'une entreprise location de vélos** 🏠 *Business Case PowerBi*
+• **Analyse de l'activité d'une entreprise location de vélos** 🚲 *Business Case PowerBi*
 
 Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi
 
