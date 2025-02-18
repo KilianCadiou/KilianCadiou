@@ -38,6 +38,11 @@ Mes principaux apports: Création et gestion du site via WIX
 
 L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la rédaction des codes.
 
+<details>
+  <summary></summary>
+  Texte invisible
+
+
 • **Va te faire foot!** ⚽️ *Site de recommandation de joueurs de football*
 
 Mes principaux apports: Web Scraping, Streamlit, Construction de la base de données, HTML/CSS
@@ -55,6 +60,8 @@ Mes principaux apports: Machine Learning, Construction de la base de données, W
 Mes principaux apports: Création et gestion du site via WIX
 
 [![Site internet](https://img.shields.io/badge/Site%20Internet-white?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)
+
+</details>
 
 ### 🎯 **Ma recherche d'opportunités:**
 
