@@ -16,20 +16,19 @@ Aujourd'hui je recherche une nouvelle opportunité professionnelle dans le domai
 
 L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la rédaction des codes.
 
-<details>
-  <summary>Voir les projets :</summary>
-  <ul>
-    <li> **Va te faire foot!** ⚽️ *Site de recommandation de joueurs de football*
+• **Va te faire foot!** ⚽️ *Site de recommandation de joueurs de football*
 
 Mes principaux apports: Web Scraping, Streamlit, Construction de la base de données, HTML/CSS
 
 [![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://kiliancadiou-va-te-faire-foot-streamlitstreamlit-app-xttkka.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)</li>
-    <li>**The Rock'mendation** 🎬 *Site de recommandation de films*
+
+• **The Rock'mendation** 🎬 *Site de recommandation de films*
 
 Mes principaux apports: Machine Learning, Construction de la base de données, Web Scraping
 
 [![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://kiliancadiou-the-rock-mendation-streamlitstreamlit-app-ilurtj.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)</li>
-    <li>**Les Sternes de Ploubaz'** 🏸 *Site internet de mon club de badminton*
+
+• **Les Sternes de Ploubaz'** 🏸 *Site internet de mon club de badminton*
 
 Mes principaux apports: Création et gestion du site via WIX
 
