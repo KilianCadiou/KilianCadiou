@@ -76,6 +76,16 @@ Mon parcours professionnel: J'ai évolué durant 4 ans en tant que Consultant en
 
 Pour accéder à mon CV -> [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
 
+### 💬 **Mes citations préférées:**
+
+*"Ce n’est pas parce que les choses sont difficiles que nous n’osons pas. C’est parce que nous n’osons pas qu’elles sont difficiles."*, Sénèque.
+
+*"Peu importe que vous ayez du style, une réputation, ou de l'argent, si vous n'avez pas bon cœur, vous ne valez rien."*, Louis de Funès.
+
+*"Il y a du bon en ce monde, Monsieur Frodon, et il faut se battre pour cela."*, Sam Gamegie le Brave.
+
+*"Pourquoi tombons-nous ? Pour que nous puissions apprendre à nous relever."*, Thomas Wayne.
+
 ### 💁‍♂️ **Mes passions**
     
 • Sport : Badminton 🏸 (Niveau régional), Course à pied 🏃, Vélo 🚲
@@ -87,19 +97,6 @@ Pour accéder à mon CV -> [![Site internet](https://img.shields.io/badge/Mon%20
 Inde 🇮🇳 (6 mois), Berlin 🇩🇪 (6 mois), Espagne 🇪🇸,  Portugal 🇵🇹, Allemagne 🇩🇪,  Italie 🇮🇹, Belgique 🇧🇪.
 
 J'adore également découvrir d'autres régions en France 🇫🇷.
-
-
-### 💬 **Mes citations préférées:**
-
-*"Ce n’est pas parce que les choses sont difficiles que nous n’osons pas. C’est parce que nous n’osons pas qu’elles sont difficiles."*, Sénèque.
-
-*"Peu importe que vous ayez du style, une réputation, ou de l'argent, si vous n'avez pas bon cœur, vous ne valez rien."*, Louis de Funès.
-
-*"Il y a du bon en ce monde, Monsieur Frodon, et il faut se battre pour cela."*, Sam Gamegie le Brave.
-
-*"Pourquoi tombons-nous ? Pour que nous puissions apprendre à nous relever."*, Thomas Wayne.
-
-
 
 <!--
 **KilianCadiou/KilianCadiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
