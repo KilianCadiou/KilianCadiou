@@ -20,21 +20,25 @@ L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la r
 
 Mes principaux apports: Web Scraping, Streamlit, Construction de la base de données, HTML/CSS
 
-[![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://kiliancadiou-va-te-faire-foot-streamlitstreamlit-app-xttkka.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)</li>
+[![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://kiliancadiou-va-te-faire-foot-streamlitstreamlit-app-xttkka.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
 
 • **The Rock'mendation** 🎬 *Site de recommandation de films*
 
 Mes principaux apports: Machine Learning, Construction de la base de données, Web Scraping
 
-[![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://kiliancadiou-the-rock-mendation-streamlitstreamlit-app-ilurtj.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)</li>
+[![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://kiliancadiou-the-rock-mendation-streamlitstreamlit-app-ilurtj.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
 
 • **Les Sternes de Ploubaz'** 🏸 *Site internet de mon club de badminton*
 
 Mes principaux apports: Création et gestion du site via WIX
 
-[![Site internet](https://img.shields.io/badge/Site%20Internet-white?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)</li>
-  </ul>
-</details>
+[![Site internet](https://img.shields.io/badge/Site%20Internet-white?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)
+
+• **Analyse du marché immobilier de l'Ain** 🏠 *Business Case Power Bi*
+
+Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi
+
+[![Présentation](https://img.shields.io/badge/Présentation-white?logo=paypal&logoColor=orange)](https://github.com/KilianCadiou/Business-Case_Immobilier-Ain/blob/main/Analyse%20du%20march%C3%A9%20de%20l%E2%80%99immobilier%20dans%20l%E2%80%99Ain.gslides)   [![PowerBi](https://img.shields.io/badge/PowerBi-black?logo=readme&logoColor=yeallow)](https://github.com/KilianCadiou/Business-Case_Immobilier-Ain/blob/main/Business%20Case.pbix)
 
 
 ### 🎯 **Ma recherche d'opportunités:**
