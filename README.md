@@ -12,7 +12,9 @@ J'ai découvert le monde de la Data en 2024, je termine ma formation de [Data An
 
 Aujourd'hui je recherche une nouvelle opportunité professionnelle dans le domaine de la Data sur Rennes (plus de détails 👇).
 
-Mon CV -> [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
+### 📫 **Comment me contacter**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kiliancadiou@gmail.com)   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kiliancadiou/) [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
 
 ### 🚧 **Mes projets:**
 
@@ -96,10 +98,6 @@ J'adore également découvrir d'autres régions en France 🇫🇷.
 *"Il y a du bon en ce monde, Monsieur Frodon, et il faut se battre pour cela."*, Sam Gamegie le Brave.
 
 *"Pourquoi tombons-nous ? Pour que nous puissions apprendre à nous relever."*, Thomas Wayne.
-
-### 📫 **Comment me contacter**
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kiliancadiou@gmail.com)   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kiliancadiou/)
 
 
 
