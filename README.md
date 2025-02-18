@@ -12,6 +12,8 @@ J'ai découvert le monde de la Data en 2024, je termine ma formation de [Data An
 
 Aujourd'hui je recherche une nouvelle opportunité professionnelle dans le domaine de la Data sur Rennes (plus de détails 👇).
 
+Mon CV -> [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
+
 ### 🚧 **Mes projets:**
 
 L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la rédaction des codes.
