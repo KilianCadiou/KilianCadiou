@@ -12,6 +12,15 @@ J'ai découvert le monde de la Data en 2024, je termine ma formation de [Data An
 
 Aujourd'hui je recherche une nouvelle opportunité professionnelle dans le domaine de la Data sur Rennes (plus de détails 👇).
 
+<details>
+  <summary>Cliquez ici pour dérouler la liste</summary>
+  <ul>
+    <li>Élément 1</li>
+    <li>Élément 2</li>
+    <li>Élément 3</li>
+  </ul>
+</details>
+
 
 ### 🚧 **Mes projets:**
 
