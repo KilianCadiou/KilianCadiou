@@ -84,7 +84,7 @@ Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oei
 
 ### ✈️ **Mes voyages**
 
-Inde 🇮🇳 (6 mois), Berlin 🇩🇪 (6 mois), Espagne 🇪🇸,  Portugal 🇵🇹, Allemagne 🇩🇪,  Italie 🇮🇹, Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿, Belgique 🇧🇪, Pays-Bas 🇳🇱.
+Inde 🇮🇳 (6 mois), Berlin 🇩🇪 (6 mois), Espagne 🇪🇸,  Portugal 🇵🇹, Allemagne 🇩🇪,  Italie 🇮🇹, Belgique 🇧🇪.
 
 J'adore également découvrir d'autres régions en France 🇫🇷.
 
