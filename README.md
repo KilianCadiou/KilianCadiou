@@ -70,7 +70,7 @@ Ma formation initiale: Master en Entrepreneuriat *(Inseec Business School, Borde
 
 Mon parcours professionnel: J'ai évolué durant 4 ans en tant que Consultant en Recrutement puis durant 4 ans en tant que Conseiller en Création & Reprise d'entreprise.
 
-Pour accéder à mon CV [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
+Pour accéder à mon CV : [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
 
 ## 📫 **Comment me contacter**
 
