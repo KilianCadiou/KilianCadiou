@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-### 🤔 **Qui suis-je ?**
+## 🤔 **Qui suis-je ?**
 
 J'ai 31 ans, je suis Breton, je fais du badminton 2 à 3 fois par semaine, en plus des compétitions du week-end. J'adore le sport, la musique, le cinéma, la nature. Et maintenant la Data.
 
