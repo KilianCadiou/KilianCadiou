@@ -38,15 +38,15 @@ Mes principaux apports: Création et gestion du site via WIX
 
 Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oeil ici : [![Exercices Wild Code School](https://img.shields.io/badge/Exercices%20Wild%20Code%20School-gray?logo=googlescholar&logoColor=red)](https://github.com/KilianCadiou/Cours-Wild-Code-School)
 
-• Langages : Python, SQL, PostgreSQL, HTML, CSS, Dax
+• **Langages** : Python, SQL, PostgreSQL, HTML, CSS, Dax
 
-• Logiciels : Power BI, VS Code, SQL Workbench, DBeaver, Tableau, GitHub, StreamLit, AWS, Talend, Big Query
+• **Logiciels** : Power BI, VS Code, SQL Workbench, DBeaver, Tableau, GitHub, StreamLit, AWS, Talend, Big Query
 
-• Compétences : Pandas, Numpy, è, Seaborn, Plotly, Sci-Kit Learn, Web Scaping, Web Crawling, API, NLP, JSON, Geocoding, Excel
+• **Compétences** : Pandas, Numpy, è, Seaborn, Plotly, Sci-Kit Learn, Web Scaping, Web Crawling, API, NLP, JSON, Geocoding, Excel
 
-• Environnements : Microsoft, Apple
+• **Environnements** : Microsoft, Apple
 
-• Langues : Anglais (C2), Allemand (B1), Espagnol (A1)
+•**Langues** : Anglais (C2), Allemand (B1), Espagnol (A1)
 
 # 🤔 **Qui suis-je ?**
 
