@@ -1,6 +1,6 @@
 # Hello there 👋
 
-# 🚧 **Mes projets:**
+## 🚧 **Mes projets:**
 
 L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la rédaction des codes.
 
@@ -34,7 +34,7 @@ Mes principaux apports: Création et gestion du site via WIX
 
 [![Site internet](https://img.shields.io/badge/Site%20Internet-white?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)
 
-# 🌱 **Mes compétences:**
+## 🌱 **Mes compétences:**
 
 Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oeil ici : [![Exercices Wild Code School](https://img.shields.io/badge/Exercices%20Wild%20Code%20School-gray?logo=googlescholar&logoColor=red)](https://github.com/KilianCadiou/Cours-Wild-Code-School)
 
@@ -48,7 +48,7 @@ Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oei
 
 •**Langues** : Anglais (C2), Allemand (B1), Espagnol (A1)
 
-# 🤔 **Qui suis-je ?**
+## 🤔 **Qui suis-je ?**
 
 J'ai 31 ans, je suis Breton, je fais du badminton 2 à 3 fois par semaine, en plus des compétitions du week-end. J'adore le sport, la musique, le cinéma, la nature. Et maintenant la Data.
 
@@ -58,9 +58,9 @@ Professionnellement, je suis rigoureux, perspicace et persévérant. J'aime auta
 
 J'ai découvert le monde de la Data en 2024, je termine ma formation de [Data Analyst à la Wild Code School](https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst) en mars et j'adore ce que je fais.
 
-Aujourd'hui je recherche une nouvelle opportunité professionnelle dans le domaine de la Data sur Rennes (plus de détails 👇).
+Aujourd'hui je recherche une nouvelle opportunité professionnelle dans le domaine de la Data sur Rennes.
 
-# 🎯 **Ma recherche d'opportunités:**
+## 🎯 **Ma recherche d'opportunités:**
 
 Prochainement diplômé de la Wild Code School pour le titre RNCP niveau 6 de Data Analyst, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.
 
@@ -72,11 +72,11 @@ Mon parcours professionnel: J'ai évolué durant 4 ans en tant que Consultant en
 
 Pour accéder à mon CV -> [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
 
-# 📫 **Comment me contacter**
+## 📫 **Comment me contacter**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kiliancadiou@gmail.com)   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kiliancadiou/) [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
 
-# 💬 **Mes citations préférées:**
+## 💬 **Mes citations préférées:**
 
 *"Ce n’est pas parce que les choses sont difficiles que nous n’osons pas. C’est parce que nous n’osons pas qu’elles sont difficiles."*, Sénèque.
 
@@ -86,13 +86,13 @@ Pour accéder à mon CV -> [![Site internet](https://img.shields.io/badge/Mon%20
 
 *"Pourquoi tombons-nous ? Pour que nous puissions apprendre à nous relever."*, Thomas Wayne.
 
-# 💁‍♂️ **Mes passions**
+## 💁‍♂️ **Mes passions**
     
 • Sport : Badminton 🏸 (Niveau régional), Course à pied 🏃, Vélo 🚲
     
 • Loisirs : Lecture 📚, Cinéma 🎥, Musique 🎶, Balades 🥾
 
-# ✈️ **Mes voyages**
+## ✈️ **Mes voyages**
 
 Inde 🇮🇳 (6 mois), Berlin 🇩🇪 (6 mois), Espagne 🇪🇸,  Portugal 🇵🇹, Allemagne 🇩🇪,  Italie 🇮🇹, Belgique 🇧🇪.
 
