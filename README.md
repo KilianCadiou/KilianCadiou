@@ -54,6 +54,10 @@ Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oei
 
 • **Langues** : Anglais (C2), Allemand (B1), Espagnol (A1)
 
+## 📫 **Comment me contacter**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kiliancadiou@gmail.com)   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kiliancadiou/)
+
 ## 🤔 **Qui suis-je ?**
 
 J'ai 31 ans, je suis Breton, je fais du badminton 2 à 3 fois par semaine, en plus des compétitions du week-end. J'adore le sport, la musique, le cinéma, la nature. Et maintenant la Data.
@@ -84,7 +88,7 @@ Pour accéder à mon CV : [![Site internet](https://img.shields.io/badge/Mon%20C
 
 2025 : Titre Professionnel de Data Analyst, *RNCP Niveau 6 (équivalent Bac+3), Wild Code School (Nantes)*
 
-## **Parcours professionnel:**
+## 💼 **Parcours professionnel:**
 
 2022 - 2024 : Chargé d'Accompagnement à la Création et Reprise d'Entreprise & Référent Impact, *Réseau Entreprendre (Nantes)*
 
@@ -95,10 +99,6 @@ Pour accéder à mon CV : [![Site internet](https://img.shields.io/badge/Mon%20C
 2020 : Consultant en Evolution Professionnelle et Création d'Entreprise, *AKSIS (Bayonne)*
 
 2016 – 2020 : Consultant en Recrutement et Co-Fondateur, *Bâtir RH (Bayonne)*
-
-## 📫 **Comment me contacter**
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kiliancadiou@gmail.com)   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kiliancadiou/)
 
 ## 💬 **Mes citations préférées:**
 
