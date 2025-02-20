@@ -98,6 +98,9 @@ Pour accéder à mon CV : [![Site internet](https://img.shields.io/badge/Mon%20C
 
 2022 : Chargé de Recrutement, *KPMG (Nantes)*
 
+2022 - 2024 : Chargé d'Accompagnement à la Création et Reprise d'Entreprise & Référent Impact, *Réseau Entreprendre (Nantes)*
+
+
 ## 💬 **Mes citations préférées:**
 
 *"Ce n’est pas parce que les choses sont difficiles que nous n’osons pas. C’est parce que nous n’osons pas qu’elles sont difficiles."*, Sénèque.
