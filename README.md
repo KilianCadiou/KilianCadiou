@@ -6,31 +6,31 @@ L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la r
 
 • **Va te faire foot!** ⚽️ *Site de recommandation de joueurs de football*
 
-Mes principaux apports: Web Scraping, Streamlit, Construction de la base de données, HTML/CSS
+Mes principaux apports: Web Scraping, Streamlit, Construction de la base de données, HTML/CSS.
 
 [![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://kiliancadiou-va-te-faire-foot-streamlitstreamlit-app-xttkka.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
 
 • **The Rock'mendation** 🎬 *Site de recommandation de films*
 
-Mes principaux apports: Machine Learning, Construction de la base de données, Web Scraping
+Mes principaux apports: Machine Learning, Construction de la base de données, Web Scraping.
 
 [![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://kiliancadiou-the-rock-mendation-streamlitstreamlit-app-ilurtj.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
 
 • **Analyse du marché immobilier de l'Ain** 🏠 *Business Case PowerBi*
 
-Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi
+Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
 
 [![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1ms_TwqjDWaEO29dC5yuYlfCDBVZCOUtZ_bHCcvMnhuc/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1ieWIK9jj1fWriTRSfxywm4fACXYKNpM_/view?usp=sharing)
 
 • **Analyse de l'activité d'une entreprise location de vélos** 🚲 *Business Case PowerBi*
 
-Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi
+Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
 
 [![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1874wNFycSrQxWFzQNfWoT8DQu_7Mp_bchZDt6U5i7Ew/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1idIZ_TFeCWdS8JlQg3g6C0tjBACqD03L/view?usp=sharing)
 
 • **Les Sternes de Ploubaz'** 🏸 *Site internet de mon club de badminton*
 
-Mes principaux apports: Création et gestion du site via WIX
+Mes principaux apports: Création et gestion du site via WIX.
 
 [![Site internet](https://img.shields.io/badge/Site%20Internet-white?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)
 
@@ -42,19 +42,19 @@ Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oei
 
 • **Logiciels** : Power BI, VS Code, SQL Workbench, DBeaver, Tableau, GitHub, StreamLit, AWS, Talend, Big Query.
 
-• **Programmation** : Pandas, Numpy, Web Scaping, Web Crawling, API, JSON, Geocoding
+• **Programmation** : Pandas, Numpy, Web Scaping, Web Crawling, API, JSON, Geocoding.
 
-• **Machine Learning** : Sci-Kit Learn, NLP *(Méthodes de régression, classification, clustering, analyse de sentiments)*
+• **Machine Learning** : Sci-Kit Learn, NLP *(Méthodes de régression, classification, clustering, analyse de sentiments).*
 
-• **Data Visualisation** : PowerBI, Matplotlib, Seaborn, Plotly Express
+• **Data Visualisation** : PowerBI, Matplotlib, Seaborn, Plotly Express.
 
-• **Data Engineering** : Gestion et transformation de big data (ETL/ELT), Cloud Computing (AWS)
+• **Data Engineering** : Gestion et transformation de big data (ETL/ELT), Cloud Computing (AWS).
 
-• **Création de site internet** : WordPress, Wix, Shopify
+• **Création de site internet** : WordPress, Wix, Shopify.
 
-• **Environnements** : Microsoft, Apple
+• **Environnements** : Microsoft, Apple.
 
-• **Langues** : Anglais (C2), Allemand (B1), Espagnol (A1)
+• **Langues** : Anglais (C2), Allemand (B1), Espagnol (A1).
 
 ## 📫 **Comment me contacter**
 
