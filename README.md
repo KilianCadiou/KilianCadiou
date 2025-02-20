@@ -96,8 +96,6 @@ Pour accéder à mon CV : [![Site internet](https://img.shields.io/badge/Mon%20C
 
 2016 – 2020 : Consultant en Recrutement et Co-Fondateur, *Bâtir RH (Bayonne)*
 
-![image](https://github.com/user-attachments/assets/8aed3a24-ddf6-4363-b583-2c518bae99d0)
-
 ## 📫 **Comment me contacter**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kiliancadiou@gmail.com)   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kiliancadiou/)
