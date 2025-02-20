@@ -90,15 +90,13 @@ Pour accéder à mon CV : [![Site internet](https://img.shields.io/badge/Mon%20C
 
 ## 💼 **Parcours professionnel:**
 
-2022 - 2024 : Chargé d'Accompagnement à la Création et Reprise d'Entreprise & Référent Impact, *Réseau Entreprendre (Nantes)*
-
-2022 : Chargé de Recrutement, *KPMG (Nantes)*
-
-2020 - 2022 : Conseiller en Création et Reprise d'Entreprise, *Chambre de Commerce et d’Industrie Bayonne Pays Basque (Bayonne)*
+2016 – 2020 : Consultant en Recrutement et Co-Fondateur, *Bâtir RH (Bayonne)*
 
 2020 : Consultant en Evolution Professionnelle et Création d'Entreprise, *AKSIS (Bayonne)*
 
-2016 – 2020 : Consultant en Recrutement et Co-Fondateur, *Bâtir RH (Bayonne)*
+2020 - 2022 : Conseiller en Création et Reprise d'Entreprise, *Chambre de Commerce et d’Industrie Bayonne Pays Basque (Bayonne)*
+
+2022 : Chargé de Recrutement, *KPMG (Nantes)*
 
 ## 💬 **Mes citations préférées:**
 
