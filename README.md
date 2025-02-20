@@ -66,11 +66,14 @@ Prochainement diplômé de la Wild Code School pour le titre RNCP niveau 6 de Da
 
 Lieu de recherche : Rennes(35) et Alentours. Ouvert au télétravail partiel ou total.
 
-Ma formation initiale: Master en Entrepreneuriat *(Inseec Business School, Bordeaux)* à la suite d'une Classe Préparatoire ECE *(Lycée Kerichen, Brest)*.
-
-Mon parcours professionnel: J'ai évolué durant 4 ans en tant que Consultant en Recrutement puis durant 4 ans en tant que Conseiller en Création & Reprise d'entreprise.
-
 Pour accéder à mon CV : [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
+
+## 🎓 **Mes formations:**
+
+2012 : Classe Préparatoire ECE, *Bac+2, Lycée Kerichen (Brest)*
+2016 : Master en Entrepreneuriat, Intrapreneuriat et Innovation Stratégique, *Bac+5, Inseec Business School (Bordeaux)*
+2025 : Titre Professionnel de Data Analyst, *RNCP Niveau 6 (équivalent Bac+3), Wild Code School (Nantes)*
+
 
 ## 📫 **Comment me contacter**
 
