@@ -71,7 +71,9 @@ Pour accéder à mon CV : [![Site internet](https://img.shields.io/badge/Mon%20C
 ## 🎓 **Mes formations:**
 
 2012 : Classe Préparatoire ECE, *Bac+2, Lycée Kerichen (Brest)*
+
 2016 : Master en Entrepreneuriat, Intrapreneuriat et Innovation Stratégique, *Bac+5, Inseec Business School (Bordeaux)*
+
 2025 : Titre Professionnel de Data Analyst, *RNCP Niveau 6 (équivalent Bac+3), Wild Code School (Nantes)*
 
 
