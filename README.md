@@ -50,6 +50,8 @@ Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oei
 
 • **Data Engineering** : Gestion et transformation de big data (ETL/ELT), Cloud Computing (AWS)
 
+• **Création de site internet** : WordPress, Wix, Shopify
+
 • **Environnements** : Microsoft, Apple
 
 • **Langues** : Anglais (C2), Allemand (B1), Espagnol (A1)
