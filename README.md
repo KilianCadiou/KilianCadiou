@@ -8,7 +8,7 @@ L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la r
 
 Mes principaux apports: Web Scraping, Streamlit, Construction de la base de données, HTML/CSS.
 
-[![Site internet]([https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://kiliancadiou-va-te-faire-foot-streamlitstreamlit-app-xttkka.streamlit.app/](https://va-te-faire-foot.streamlit.app/accueil))   [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
+[![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)]([https://kiliancadiou-va-te-faire-foot-streamlitstreamlit-app-xttkka.streamlit.app/](https://va-te-faire-foot.streamlit.app/accueil))   [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
 
 • **The Rock'mendation** 🎬 *Site de recommandation de films*
 
