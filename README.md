@@ -88,26 +88,25 @@ Pour accéder à mon CV : [![Site internet](https://img.shields.io/badge/Mon%20C
 
 ## 🎓 **Mes formations:**
 
-2010 : Baccalauréat ES, avec mention, *Lycée Kerraoul (Paimpol)*
-
-2012 : Classe Préparatoire ECE, *Bac+2, Lycée Kerichen (Brest)*
+2025 : Titre Professionnel de Data Analyst, *RNCP Niveau 6 (équivalent Bac+3), Wild Code School (Nantes)*
 
 2016 : Master en Entrepreneuriat, Intrapreneuriat et Innovation Stratégique, avec Félicitations du Jury, *Bac+5, Inseec Business School (Bordeaux)*
 
-2025 : Titre Professionnel de Data Analyst, *RNCP Niveau 6 (équivalent Bac+3), Wild Code School (Nantes)*
+2012 : Classe Préparatoire ECE, *Bac+2, Lycée Kerichen (Brest)*
+
+2010 : Baccalauréat ES, avec mention, *Lycée Kerraoul (Paimpol)*
 
 ## 💼 **Parcours professionnel:**
 
-2016 – 2020 : Consultant en Recrutement et Co-Fondateur, *Bâtir RH (Bayonne)*
-
-2020 : Consultant en Evolution Professionnelle et Création d'Entreprise, *AKSIS (Bayonne)*
-
-2020 - 2022 : Conseiller en Création et Reprise d'Entreprise, *Chambre de Commerce et d’Industrie Bayonne Pays Basque (Bayonne)*
+2022 - 2024 : Chargé d'Accompagnement à la Création et Reprise d'Entreprise & Référent Impact, *Réseau Entreprendre (Nantes)*
 
 2022 : Chargé de Recrutement, *KPMG (Nantes)*
 
-2022 - 2024 : Chargé d'Accompagnement à la Création et Reprise d'Entreprise & Référent Impact, *Réseau Entreprendre (Nantes)*
+2020 - 2022 : Conseiller en Création et Reprise d'Entreprise, *Chambre de Commerce et d’Industrie Bayonne Pays Basque (Bayonne)*
 
+2020 : Consultant en Evolution Professionnelle et Création d'Entreprise, *AKSIS (Bayonne)*
+
+2016 – 2020 : Consultant en Recrutement et Co-Fondateur, *Bâtir RH (Bayonne)*
 
 ## 💬 **Mes citations préférées:**
 
