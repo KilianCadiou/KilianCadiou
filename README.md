@@ -26,7 +26,7 @@ Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
 
 Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
 
-[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/19DoG2nFUt_l_9LDBJAPHycciziAdfZ-uXDM9ftkeElU/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1OIzrO58nIZjDlWZABkdzO2-S5F8-PY2f/view?usp=sharing)
+[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/19DoG2nFUt_l_9LDBJAPHycciziAdfZ-uXDM9ftkeElU/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://docs.google.com/presentation/d/1874wNFycSrQxWFzQNfWoT8DQu_7Mp_bchZDt6U5i7Ew/edit?usp=sharing)
 
 • **Analyse du marché immobilier pour DataImmo** 🏠 *Business Case PowerBi*
 
