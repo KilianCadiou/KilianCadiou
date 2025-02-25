@@ -10,35 +10,35 @@ Mes principaux apports: Web Scraping, Streamlit, Construction de la base de donn
 
 [![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://va-te-faire-foot.streamlit.app)    [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
 
+• **Analyse du marché du vin** 🍷 *Business Case Power Bi*
+
+Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
+
+[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1feC9-ofQCiy3DiBsQNdaxfVj-mQ_y6NoWT7yEUFHTTQ/edit?usp=sharing)   [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1oGeGZB9csG-QYMVaHoGFt3p1b_mKIR-7/view?usp=sharing)
+
 • **The Rock'mendation** 🎬 *Site de recommandation de films*
 
 Mes principaux apports: Machine Learning, Construction de la base de données, Web Scraping.
 
 [![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://the-rockmendation.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-yellow?logo=Python&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
 
-• **Analyse du marché immobilier de l'Ain** 🏠 *Business Case PowerBi*
+• **Analyse de l'activité d'une entreprise location de vélos** 🚲 *Business Case Power Bi*
 
 Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
 
-[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1ms_TwqjDWaEO29dC5yuYlfCDBVZCOUtZ_bHCcvMnhuc/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1ieWIK9jj1fWriTRSfxywm4fACXYKNpM_/view?usp=sharing)
-
-• **Analyse de l'activité d'une entreprise location de vélos** 🚲 *Business Case PowerBi*
-
-Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
-
-[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1874wNFycSrQxWFzQNfWoT8DQu_7Mp_bchZDt6U5i7Ew/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1idIZ_TFeCWdS8JlQg3g6C0tjBACqD03L/view?usp=sharing)
-
-• **Analyse du marché immobilier pour DataImmo** 🏠 *Business Case PowerBi*
-
-Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
-
-[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/19DoG2nFUt_l_9LDBJAPHycciziAdfZ-uXDM9ftkeElU/edit?usp=sharing)   [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1OIzrO58nIZjDlWZABkdzO2-S5F8-PY2f/view?usp=sharing)
+[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1874wNFycSrQxWFzQNfWoT8DQu_7Mp_bchZDt6U5i7Ew/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1ob1YMhqjimMh8ON2nrUvezTrAE7KJGzc/view?usp=sharing)
 
 • **Les Sternes de Ploubaz'** 🏸 *Site internet de mon club de badminton*
 
 Mes principaux apports: Création et gestion du site via WIX.
 
 [![Site internet](https://img.shields.io/badge/Site%20Internet-white?logo=wix&logoColor=black)](https://www.les-sternes-de-ploubaz.com/)
+
+• **Analyse du marché immobilier de l'Ain** 🏠 *Business Case Power Bi*
+
+Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
+
+[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1ms_TwqjDWaEO29dC5yuYlfCDBVZCOUtZ_bHCcvMnhuc/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1oXqMnHWfVNOy_2JbDbH9v6qHnQqrlkVS/view?usp=sharing)
 
 ## 🌱 **Mes compétences:**
 
