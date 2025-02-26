@@ -2,7 +2,7 @@
 
 ## 🚧 **Mes projets:**
 
-**<span style="font-size:600px">L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la rédaction des codes.</span>**
+***L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la rédaction des codes.***
 
 
 • **Va te faire foot!** ⚽️ *Site de recommandation de joueurs de football*
