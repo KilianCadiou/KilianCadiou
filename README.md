@@ -8,25 +8,25 @@ L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la r
 
 Mes principaux apports: Web Scraping, Streamlit, Construction de la base de données, HTML/CSS.
 
-[![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://va-te-faire-foot.streamlit.app)    [![Code Python](https://img.shields.io/badge/Code%20Python-blue?logo=Python&logoColor=white)](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
+[![Site internet](https://img.shields.io/badge/Site%20Streamlit-ec0e0e?logo=streamlit&logoColor=white)](https://va-te-faire-foot.streamlit.app)    [![Code Python](https://img.shields.io/badge/Code%20Python-0e84ec?logo=Python&logoColor=white)](https://github.com/KilianCadiou/Va-Te-Faire-Foot/tree/2630b4472778cc216711b471cc78a97f8a7bb453/DATASET)
 
 • **Analyse du marché du vin** 🍷 *Business Case Power Bi*
 
 Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
 
-[![Présentation](https://img.shields.io/badge/Présentation-purple?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1feC9-ofQCiy3DiBsQNdaxfVj-mQ_y6NoWT7yEUFHTTQ/edit?usp=sharing)   [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1oGeGZB9csG-QYMVaHoGFt3p1b_mKIR-7/view?usp=sharing)
+[![Présentation](https://img.shields.io/badge/Présentation-791656?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1feC9-ofQCiy3DiBsQNdaxfVj-mQ_y6NoWT7yEUFHTTQ/edit?usp=sharing)   [![PowerBi](https://img.shields.io/badge/PowerBi-e3e83e?logo=readme&logoColor=black)](https://drive.google.com/file/d/1oGeGZB9csG-QYMVaHoGFt3p1b_mKIR-7/view?usp=sharing)
 
 • **The Rock'mendation** 🎬 *Site de recommandation de films*
 
 Mes principaux apports: Machine Learning, Construction de la base de données, Web Scraping.
 
-[![Site internet](https://img.shields.io/badge/Site%20Streamlit-2eb479?logo=streamlit&logoColor=white)](https://the-rockmendation.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-blue?logo=Python&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
+[![Site internet](https://img.shields.io/badge/Site%20Streamlit-ec0e0e?logo=streamlit&logoColor=white)](https://the-rockmendation.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-0e84ec?logo=Python&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
 
 • **Analyse de l'activité d'une entreprise location de vélos** 🚲 *Business Case Power Bi*
 
 Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
 
-[![Présentation](https://img.shields.io/badge/Présentation-purple?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1874wNFycSrQxWFzQNfWoT8DQu_7Mp_bchZDt6U5i7Ew/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1ob1YMhqjimMh8ON2nrUvezTrAE7KJGzc/view?usp=sharing)
+[![Présentation](https://img.shields.io/badge/Présentation-2eb479?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1874wNFycSrQxWFzQNfWoT8DQu_7Mp_bchZDt6U5i7Ew/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-e3e83e?logo=readme&logoColor=black)](https://drive.google.com/file/d/1ob1YMhqjimMh8ON2nrUvezTrAE7KJGzc/view?usp=sharing)
 
 • **Les Sternes de Ploubaz'** 🏸 *Site internet de mon club de badminton*
 
