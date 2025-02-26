@@ -4,7 +4,9 @@
 
 ---
 
-<p style="text-align:center;">L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la rédaction des codes.</p>
+<p align="center">
+  L'ensemble de ces travaux ont été réalisés sans l'aide d'aucune IA pour la rédaction des codes.
+</p>
 
 ---
 
