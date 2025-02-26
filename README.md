@@ -78,17 +78,21 @@ Professionnellement, je suis rigoureux, perspicace et persévérant. J'aime auta
 J'ai découvert le monde de la Data en 2024, je termine ma formation de [Data Analyst à la Wild Code School](https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst) en mars et j'adore ce que je fais.
 
 Aujourd'hui je recherche une nouvelle opportunité professionnelle dans le domaine de la Data sur Rennes.
+</p>
 
 ## 🎯 **Ma recherche d'opportunités:**
 
+<p align="justify">
 Prochainement diplômé de la Wild Code School pour le titre RNCP niveau 6 de Data Analyst, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.
 
 Lieu de recherche : Rennes(35) et Alentours. Ouvert au télétravail partiel ou total.
 
 Pour accéder à mon CV : [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
+</p>
 
 ## 🎓 **Mes formations:**
 
+<p align="justify">
 2025 : Titre Professionnel de Data Analyst, *RNCP Niveau 6 (équivalent Bac+3), Wild Code School (Nantes)*
 
 2016 : Master en Entrepreneuriat, Intrapreneuriat et Innovation Stratégique, avec Félicitations du Jury, *Bac+5, Inseec Business School (Bordeaux)*
@@ -96,9 +100,11 @@ Pour accéder à mon CV : [![Site internet](https://img.shields.io/badge/Mon%20C
 2012 : Classe Préparatoire ECE, *Bac+2, Lycée Kerichen (Brest)*
 
 2010 : Baccalauréat ES, avec mention, *Lycée Kerraoul (Paimpol)*
+</p>
 
 ## 💼 **Parcours professionnel:**
 
+<p align="justify">
 2022 - 2024 : Chargé d'Accompagnement à la Création et Reprise d'Entreprise & Référent Impact, *Réseau Entreprendre (Nantes)*
 
 2022 : Chargé de Recrutement, *KPMG (Nantes)*
@@ -108,9 +114,11 @@ Pour accéder à mon CV : [![Site internet](https://img.shields.io/badge/Mon%20C
 2020 : Consultant en Evolution Professionnelle et Création d'Entreprise, *AKSIS (Bayonne)*
 
 2016 – 2020 : Consultant en Recrutement et Co-Fondateur, *Bâtir RH (Bayonne)*
+</p>
 
 ## 💬 **Mes citations préférées:**
 
+<p align="justify">
 *"Ce n’est pas parce que les choses sont difficiles que nous n’osons pas. C’est parce que nous n’osons pas qu’elles sont difficiles."*, Sénèque.
 
 *"Peu importe que vous ayez du style, une réputation, ou de l'argent, si vous n'avez pas bon cœur, vous ne valez rien."*, Louis de Funès.
