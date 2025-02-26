@@ -18,9 +18,9 @@ Mes principaux apports: Web Scraping, Streamlit, Construction de la base de donn
 
 • **Analyse du marché du vin** 🍷 *Business Case Power Bi*
 
-Mes principaux apports: Nettoyage et Exploration des données, Python, Pandas, Création du PowerBi, Rédactions de mesures Dax.
+Mes principaux apports: Nettoyage et Exploration des données, Python, Pandas, Création du Power Bi, Rédactions de mesures Dax.
 
-[![Présentation](https://img.shields.io/badge/Présentation-791656?logo=paypal&logoColor=white)](https://drive.google.com/file/d/1olz6SuaTdRwt4UnYuHrLtsHan7SMpiuL/view?usp=sharing)   [![PowerBi](https://img.shields.io/badge/PowerBi-e3e83e?logo=readme&logoColor=black)](https://drive.google.com/file/d/1oGeGZB9csG-QYMVaHoGFt3p1b_mKIR-7/view?usp=sharing)
+[![Présentation](https://img.shields.io/badge/Présentation-791656?logo=paypal&logoColor=white)](https://drive.google.com/file/d/1olz6SuaTdRwt4UnYuHrLtsHan7SMpiuL/view?usp=sharing)   [![PowerBi](https://img.shields.io/badge/Power%20Bi-e3e83e?logo=readme&logoColor=black)](https://drive.google.com/file/d/1oGeGZB9csG-QYMVaHoGFt3p1b_mKIR-7/view?usp=sharing)
 
 • **The Rock'mendation** 🎬 *Site de recommandation de films*
 
@@ -30,9 +30,9 @@ Mes principaux apports: Machine Learning, Construction de la base de données, W
 
 • **Analyse de l'activité d'une entreprise location de vélos** 🚲 *Business Case Power Bi*
 
-Mes principaux apports: Nettoyage et Exploration des données, Python, Pandas, Création du PowerBi, Rédactions de mesures Dax.
+Mes principaux apports: Nettoyage et Exploration des données, Python, Pandas, Création du Power Bi, Rédactions de mesures Dax.
 
-[![Présentation](https://img.shields.io/badge/Présentation-2eb479?logo=paypal&logoColor=white)](https://drive.google.com/file/d/1omt3vxKo8wrrOwBGvJuU7M-fmgb9i1hk/view?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-e3e83e?logo=readme&logoColor=black)](https://drive.google.com/file/d/1ob1YMhqjimMh8ON2nrUvezTrAE7KJGzc/view?usp=sharing)
+[![Présentation](https://img.shields.io/badge/Présentation-2eb479?logo=paypal&logoColor=white)](https://drive.google.com/file/d/1omt3vxKo8wrrOwBGvJuU7M-fmgb9i1hk/view?usp=sharing)  [![PowerBi](https://img.shields.io/badge/Power%20Bi-e3e83e?logo=readme&logoColor=black)](https://drive.google.com/file/d/1ob1YMhqjimMh8ON2nrUvezTrAE7KJGzc/view?usp=sharing)
 
 • **Les Sternes de Ploubaz'** 🏸 *Site internet de mon club de badminton*
 
@@ -42,9 +42,9 @@ Mes principaux apports: Création et gestion du site via WIX.
 
 • **Analyse du marché immobilier de l'Ain** 🏠 *Business Case Power Bi*
 
-Mes principaux apports: Nettoyage et Exploration des données, Python, Pandas, Création du PowerBi, Rédactions de mesures Dax.
+Mes principaux apports: Nettoyage et Exploration des données, Python, Pandas, Création du Power Bi, Rédactions de mesures Dax.
 
-[![Présentation](https://img.shields.io/badge/Présentation-2eb479?logo=paypal&logoColor=white)](https://drive.google.com/file/d/1on2F4qBZOH5KdbkDO96GIlp2oaQ9dKNb/view?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-e3e83e?logo=readme&logoColor=black)](https://drive.google.com/file/d/1oXqMnHWfVNOy_2JbDbH9v6qHnQqrlkVS/view?usp=sharing)
+[![Présentation](https://img.shields.io/badge/Présentation-2eb479?logo=paypal&logoColor=white)](https://drive.google.com/file/d/1on2F4qBZOH5KdbkDO96GIlp2oaQ9dKNb/view?usp=sharing)  [![PowerBi](https://img.shields.io/badge/Power%20Bi-e3e83e?logo=readme&logoColor=black)](https://drive.google.com/file/d/1oXqMnHWfVNOy_2JbDbH9v6qHnQqrlkVS/view?usp=sharing)
 
 ## 🌱 **Mes compétences:**
 
