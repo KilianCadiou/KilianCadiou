@@ -70,13 +70,9 @@ Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oei
 
 <p align="justify">
 J'ai 31 ans, je suis Breton, je fais du badminton 2 à 3 fois par semaine, en plus des compétitions du week-end. J'adore le sport, la musique, le cinéma, la nature. Et maintenant la Data.
-
 Je suis quelqu'un de très curieux, joyeux, j'adore les jeux de mots et les blagues qui peuvent ne faire rire que moi. J'ai des goûts très éclectiques dans les domaines du cinéma ou de la musique.
-
 Professionnellement, je suis rigoureux, perspicace et persévérant. J'aime autant le travail en équipe, où je peux être un élément moteur, comme le travail individuel.
-
 J'ai découvert le monde de la Data en 2024, je termine ma formation de [Data Analyst à la Wild Code School](https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst) en mars et j'adore ce que je fais.
-
 Aujourd'hui je recherche une nouvelle opportunité professionnelle dans le domaine de la Data sur Rennes.
 </p>
 
