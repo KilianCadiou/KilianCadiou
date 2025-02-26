@@ -14,7 +14,7 @@ Mes principaux apports: Web Scraping, Streamlit, Construction de la base de donn
 
 Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
 
-[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1feC9-ofQCiy3DiBsQNdaxfVj-mQ_y6NoWT7yEUFHTTQ/edit?usp=sharing)   [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1oGeGZB9csG-QYMVaHoGFt3p1b_mKIR-7/view?usp=sharing)
+[![Présentation](https://img.shields.io/badge/Présentation-purple?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1feC9-ofQCiy3DiBsQNdaxfVj-mQ_y6NoWT7yEUFHTTQ/edit?usp=sharing)   [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1oGeGZB9csG-QYMVaHoGFt3p1b_mKIR-7/view?usp=sharing)
 
 • **The Rock'mendation** 🎬 *Site de recommandation de films*
 
@@ -26,7 +26,7 @@ Mes principaux apports: Machine Learning, Construction de la base de données, W
 
 Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
 
-[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1874wNFycSrQxWFzQNfWoT8DQu_7Mp_bchZDt6U5i7Ew/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1ob1YMhqjimMh8ON2nrUvezTrAE7KJGzc/view?usp=sharing)
+[![Présentation](https://img.shields.io/badge/Présentation-purple?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1874wNFycSrQxWFzQNfWoT8DQu_7Mp_bchZDt6U5i7Ew/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1ob1YMhqjimMh8ON2nrUvezTrAE7KJGzc/view?usp=sharing)
 
 • **Les Sternes de Ploubaz'** 🏸 *Site internet de mon club de badminton*
 
