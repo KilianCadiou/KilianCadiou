@@ -48,7 +48,7 @@ Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
 
 ## 🌱 **Mes compétences:**
 
-Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oeil ici : [![Exercices Wild Code School](https://img.shields.io/badge/Exercices%20Wild%20Code%20School-gray?logo=googlescholar&logoColor=red)](https://github.com/KilianCadiou/Cours-Wild-Code-School)
+***Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oeil ici :*** [![Exercices Wild Code School](https://img.shields.io/badge/Exercices%20Wild%20Code%20School-gray?logo=googlescholar&logoColor=red)](https://github.com/KilianCadiou/Cours-Wild-Code-School)
 
 • **Langages** : Python, SQL, PostgreSQL, HTML, CSS, Dax, VBA.
 
@@ -91,7 +91,7 @@ Prochainement diplômé de la Wild Code School pour le titre RNCP niveau 6 de Da
 
 Lieu de recherche : Rennes(35) et Alentours. Ouvert au télétravail partiel ou total.
 
-Pour accéder à mon CV : [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
+***Pour accéder à mon CV :*** [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
 
 ## 🎓 **Mes formations:**
 
