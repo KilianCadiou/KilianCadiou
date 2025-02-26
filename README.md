@@ -68,81 +68,58 @@ Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oei
 
 ## 🤔 **Qui suis-je ?**
 
-<p align="justify">
 J'ai 31 ans, je suis Breton, je fais du badminton 2 à 3 fois par semaine, en plus des compétitions du week-end. J'adore le sport, la musique, le cinéma, la nature. Et maintenant la Data.
-</p>
-<p align="justify">
+
+
 Je suis quelqu'un de très curieux, joyeux, j'adore les jeux de mots et les blagues qui peuvent ne faire rire que moi. J'ai des goûts très éclectiques dans les domaines du cinéma ou de la musique.
-</p>
-<p align="justify">
+
 Professionnellement, je suis rigoureux, perspicace et persévérant. J'aime autant le travail en équipe, où je peux être un élément moteur, comme le travail individuel.
-</p>
-<p align="justify">
+
 J'ai découvert le monde de la Data en 2024, je termine ma formation de [Data Analyst à la Wild Code School](https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst) en mars et j'adore ce que je fais.
-</p>
-<p align="justify">
+
 Aujourd'hui je recherche une nouvelle opportunité professionnelle dans le domaine de la Data sur Rennes.
-</p>
 
 ## 🎯 **Ma recherche d'opportunités:**
 
-<p align="justify">
 Prochainement diplômé de la Wild Code School pour le titre RNCP niveau 6 de Data Analyst, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.
-</p>
-<p align="justify">
+
 Lieu de recherche : Rennes(35) et Alentours. Ouvert au télétravail partiel ou total.
-</p>
-<p align="justify">
+
 Pour accéder à mon CV : [![Site internet](https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)
-</p>
 
 ## 🎓 **Mes formations:**
 
-<p align="justify">
+
 2025 : Titre Professionnel de Data Analyst, *RNCP Niveau 6 (équivalent Bac+3), Wild Code School (Nantes)*
-</p>
-<p align="justify">
+
 2016 : Master en Entrepreneuriat, Intrapreneuriat et Innovation Stratégique, avec Félicitations du Jury, *Bac+5, Inseec Business School (Bordeaux)*
-</p>
-<p align="justify">
+
 2012 : Classe Préparatoire ECE, *Bac+2, Lycée Kerichen (Brest)*
-</p>
-<p align="justify">
+
 2010 : Baccalauréat ES, avec mention, *Lycée Kerraoul (Paimpol)*
-</p>
 
 ## 💼 **Parcours professionnel:**
 
-<p align="justify">
 2022 - 2024 : Chargé d'Accompagnement à la Création et Reprise d'Entreprise & Référent Impact, *Réseau Entreprendre (Nantes)*
-</p>
-<p align="justify">
+
 2022 : Chargé de Recrutement, *KPMG (Nantes)*
-</p>
-<p align="justify">
+
 2020 - 2022 : Conseiller en Création et Reprise d'Entreprise, *Chambre de Commerce et d’Industrie Bayonne Pays Basque (Bayonne)*
-</p>
-<p align="justify">
+
 2020 : Consultant en Evolution Professionnelle et Création d'Entreprise, *AKSIS (Bayonne)*
-</p>
-<p align="justify">
+
 2016 – 2020 : Consultant en Recrutement et Co-Fondateur, *Bâtir RH (Bayonne)*
-</p>
 
 ## 💬 **Mes citations préférées:**
 
-<p align="justify">
+
 *"Ce n’est pas parce que les choses sont difficiles que nous n’osons pas. C’est parce que nous n’osons pas qu’elles sont difficiles."*, Sénèque.
-</p>
-<p align="justify">
+
 *"Peu importe que vous ayez du style, une réputation, ou de l'argent, si vous n'avez pas bon cœur, vous ne valez rien."*, Louis de Funès.
-</p>
-<p align="justify">
+
 *"Il y a du bon en ce monde, Monsieur Frodon, et il faut se battre pour cela."*, Sam Gamegie le Brave.
-</p>
-<p align="justify">
+
 *"Pourquoi tombons-nous ? Pour que nous puissions apprendre à nous relever."*, Thomas Wayne.
-</p>
 
 ## 💁‍♂️ **Mes passions**
     
