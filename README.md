@@ -64,7 +64,7 @@ Pour avoir un aperçu des compétences acquises, vous pouvez jeter un coup d'oei
 
 ## 📫 **Comment me contacter**
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kiliancadiou@gmail.com)   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kiliancadiou/)
+[![Gmail](https://img.shields.io/badge/Gmail-ec0e0e?logo=gmail&logoColor=white)](mailto:kiliancadiou@gmail.com)   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-2c62f1?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kiliancadiou/)
 
 ## 🤔 **Qui suis-je ?**
 
