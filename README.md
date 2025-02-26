@@ -20,7 +20,7 @@ Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
 
 Mes principaux apports: Machine Learning, Construction de la base de données, Web Scraping.
 
-[![Site internet](https://img.shields.io/badge/Site%20Streamlit-red?logo=streamlit&logoColor=white)](https://the-rockmendation.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-blue?logo=Python&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
+[![Site internet](https://img.shields.io/badge/Site%20Streamlit-2eb479?logo=streamlit&logoColor=white)](https://the-rockmendation.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-blue?logo=Python&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/tree/e00593098819c9689f22c4dd2c309c438f8d7bee/Codes)
 
 • **Analyse de l'activité d'une entreprise location de vélos** 🚲 *Business Case Power Bi*
 
