@@ -38,7 +38,7 @@ Mes principaux apports: Création et gestion du site via WIX.
 
 Mes principaux apports: Nettoyage et Analyse des données, Création du PowerBi.
 
-[![Présentation](https://img.shields.io/badge/Présentation-orange?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1ms_TwqjDWaEO29dC5yuYlfCDBVZCOUtZ_bHCcvMnhuc/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-yellow?logo=readme&logoColor=black)](https://drive.google.com/file/d/1oXqMnHWfVNOy_2JbDbH9v6qHnQqrlkVS/view?usp=sharing)
+[![Présentation](https://img.shields.io/badge/Présentation-2eb479?logo=paypal&logoColor=white)](https://docs.google.com/presentation/d/1ms_TwqjDWaEO29dC5yuYlfCDBVZCOUtZ_bHCcvMnhuc/edit?usp=sharing)  [![PowerBi](https://img.shields.io/badge/PowerBi-e3e83e?logo=readme&logoColor=black)](https://drive.google.com/file/d/1oXqMnHWfVNOy_2JbDbH9v6qHnQqrlkVS/view?usp=sharing)
 
 ## 🌱 **Mes compétences:**
 
