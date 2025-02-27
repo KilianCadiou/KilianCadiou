@@ -14,7 +14,7 @@
 
 Mes principaux apports: Web Scraping, Streamlit, Construction de la base de données, HTML/CSS.
 
-[![Site internet](https://img.shields.io/badge/Site%20Streamlit-ec0e0e?logo=streamlit&logoColor=white)](https://va-te-faire-foot.streamlit.app)    [![Code Python](https://img.shields.io/badge/Code%20Python-0e84ec?logo=Python&logoColor=white)](https://github.com/KilianCadiou/Va-Te-Faire-Foot/blob/main/README.md)
+[![Site internet](https://img.shields.io/badge/Streamlit-ec0e0e?logo=streamlit&logoColor=white)](https://va-te-faire-foot.streamlit.app)    [![Code Python](https://img.shields.io/badge/Repository-0e84ec?logo=Python&logoColor=white)](https://github.com/KilianCadiou/Va-Te-Faire-Foot/blob/main/README.md)
 
 • **Analyse du marché du vin** 🍷 *Business Case Power Bi*
 
@@ -26,7 +26,7 @@ Mes principaux apports: Nettoyage et Exploration des données, Python, Pandas, C
 
 Mes principaux apports: Machine Learning, Construction de la base de données, Web Scraping.
 
-[![Site internet](https://img.shields.io/badge/Site%20Streamlit-ec0e0e?logo=streamlit&logoColor=white)](https://the-rockmendation.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Code%20Python-0e84ec?logo=Python&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/blob/main/README.md)
+[![Site internet](https://img.shields.io/badge/Streamlit-ec0e0e?logo=streamlit&logoColor=white)](https://the-rockmendation.streamlit.app/)   [![Code Python](https://img.shields.io/badge/Repository-0e84ec?logo=Python&logoColor=white)](https://github.com/KilianCadiou/The-Rock-mendation/blob/main/README.md)
 
 • **Analyse de l'activité d'une entreprise location de vélos** 🚲 *Business Case Power Bi*
 
