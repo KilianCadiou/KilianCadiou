@@ -24,7 +24,7 @@
 
 <p align="center" dir="auto"><samp>Lieu de recherche : Rennes(35) et Alentours. Ouvert au télétravail partiel ou total.</p>
 
-<p align="center" dir="auto"><strong><samp>Pour accéder à mon CV :</samp></strong> <a href="https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing"><img src="https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white" alt="Site internet"></a></p>
+<p align="center" dir="auto"><samp><a href="[https://kiliancadiou.github.io/](https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing)" target="_blank">Mon CV</a><</p>
 
 <br>
 <h3 align="center" dir="auto">💬 <strong><samp>Mes citations préférées:</strong></h3>
