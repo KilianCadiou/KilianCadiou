@@ -1,4 +1,7 @@
-:quotations: Transformer les données pour des décisions éclairées. :quotations:
+<p align="center">
+  <i>"</i> Transformer les données pour des décisions éclairées. <i>"</i>
+</p>
+
 
 <hr>
 
