@@ -2,7 +2,7 @@
 Bienvenue, moi c'est Kilian.<br>
 🔥 Data Analyst / Data Scientist / Business Intelligence.<br>
 ✨ Langages favoris: Python, SQL, Dax.<br>
-🎨 Pour accéder à mon <a href="[https://va-te-faire-foot.streamlit.app/](https://kiliancadiou.github.io/)" target="_blank">Portfolio</a>.<br>
+🎨 Pour accéder à mon <a href="https://kiliancadiou.github.io/" target="_blank">Portfolio</a>.<br>
 
 ## 📫 **Mes Contacts**
 
