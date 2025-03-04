@@ -9,7 +9,7 @@
 <p align="center" dir="auto">
   <samp>Bienvenue, moi c'est Kilian.<br><br>
   🔥 Data Analyst / Data Scientist / Business Intelligence.<br><br>
-  ✨ Langages favoris:<br>Python, SQL, Dax.<br><br>
+  ✨ Langages favoris: Python, SQL, Dax.<br><br>
   🎨 <a href="https://kiliancadiou.github.io/" target="_blank">Mon Portfolio</a><br><br>
   <a href="https://github.com/KilianCadiou" target="_blank">GitHub</a> | 
   <a href="https://www.linkedin.com/in/kiliancadiou/" target="_blank">LinkedIn</a> | 
