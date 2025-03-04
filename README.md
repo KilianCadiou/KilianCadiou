@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"><samp>
   <i>"</i> Transformer les données pour des décisions éclairées. <i>"</i>
 </p>
 
