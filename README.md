@@ -5,12 +5,21 @@
   ✨ Langages favoris: Python, SQL, Dax.<br>
   🎨 Pour accéder à mon <a href="https://kiliancadiou.github.io/" target="_blank">Portfolio</a>.<br>
 
-  <a href="https://github.com/KilianCadiou" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kiliancadiou/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>&nbsp;&nbsp;
-  <a href="mailto:kiliancadiou@gmail.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a>&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1ir8LKCxzwaJlx5FWDULc2NMgPnwInPD7/view?usp=drive_link" target="_blank" title="Mon CV"><i class="fas fa-file-alt"></i></a>
+  <a href="https://github.com/KilianCadiou" target="_blank" title="GitHub">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="24" height="24">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kiliancadiou/" target="_blank" title="LinkedIn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="24" height="24">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:kiliancadiou@gmail.com" target="_blank" title="Email">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Font_Awesome_5_regular_envelope.svg" alt="Email" width="24" height="24">
+  </a>&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1ir8LKCxzwaJlx5FWDULc2NMgPnwInPD7/view?usp=drive_link" target="_blank" title="Mon CV">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Font_Awesome_5_regular_file-alt.svg" alt="Mon CV" width="24" height="24">
+  </a>
 </p>
 <hr>
+>
 
 
 
