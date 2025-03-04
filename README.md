@@ -23,13 +23,13 @@
 <br>
 <h2>💬 <strong><samp>Mes citations préférées:</strong></h2>
 
-<p><em><samp>"Ce n’est pas parce que les choses sont difficiles que nous n’osons pas. C’est parce que nous n’osons pas qu’elles sont difficiles."</em>, Sénèque.</p>
+<p><em><samp>"Ce n’est pas parce que les choses sont difficiles que nous n’osons pas. C’est parce que nous n’osons pas qu’elles sont difficiles."</em>, <samp>Sénèque.</p>
 
-<p><em><samp>"Peu importe que vous ayez du style, une réputation, ou de l'argent, si vous n'avez pas bon cœur, vous ne valez rien."</em>, Louis de Funès.</p>
+<p><em><samp>"Peu importe que vous ayez du style, une réputation, ou de l'argent, si vous n'avez pas bon cœur, vous ne valez rien."</em>, <samp>Louis de Funès.</p>
 
-<p><em><samp>"Il y a du bon en ce monde, Monsieur Frodon, et il faut se battre pour cela."</em>, Sam Gamegie le Brave.</p>
+<p><em><samp>"Il y a du bon en ce monde, Monsieur Frodon, et il faut se battre pour cela."</em>, <samp>Sam Gamegie le Brave.</p>
 
-<p><em><samp>"Pourquoi tombons-nous ? Pour que nous puissions apprendre à nous relever."</em>, Thomas Wayne.</p>
+<p><em><samp>"Pourquoi tombons-nous ? Pour que nous puissions apprendre à nous relever."</em>, <samp>Thomas Wayne.</p>
 <br>
 <h2>💁‍♂️ <strong><samp>Mes passions</strong></h2>
 
