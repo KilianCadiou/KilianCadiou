@@ -1,9 +1,6 @@
-<p align="center">
+<p align="center" style="font-size: 24px;">
   <i>"</i><samp> Transformer les données pour des décisions éclairées. <i>"</i>
 </p>
-
-
-
 
 <hr>
 
