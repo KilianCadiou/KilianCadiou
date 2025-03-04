@@ -1,11 +1,10 @@
-<p> align = "center" dir="auto">
-    <samp><br>
-    Bienvenue, moi c'est Kilian.<br>
-    🔥 Data Analyst / Data Scientist / Business Intelligence.<br>
-    ✨ Langages favoris: Python, SQL, Dax.<br>
-    🎨 Pour accéder à mon <a href="https://kiliancadiou.github.io/" target="_blank">Portfolio</a>.<br>
-
+<p align="center">
+  Bienvenue, moi c'est Kilian.<br>
+  🔥 Data Analyst / Data Scientist / Business Intelligence.<br>
+  ✨ Langages favoris: Python, SQL, Dax.<br>
+  🎨 Pour accéder à mon <a href="https://kiliancadiou.github.io/" target="_blank">Portfolio</a>.<br>
 </p>
+
 ## 📫 **Mes Contacts**
 
 [![Gmail](https://img.shields.io/badge/Gmail-ec0e0e?logo=gmail&logoColor=white)](mailto:kiliancadiou@gmail.com)   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-2c62f1?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kiliancadiou/)
