@@ -34,12 +34,15 @@
 <br>
 <h2 align="center" dir="auto">💁‍♂️ <strong><samp>Mes passions</strong></h2>
 
-<ul align="center" dir="auto">
-    <li><samp>Sport : Badminton 🏸 (Niveau régional), Course à pied 🏃, Vélo 🚲</li>
-    <li><samp>Loisirs : Lecture 📚, Cinéma 🎥, Musique 🎶, Balades 🥾</li>
-</ul>
+<div align="center" dir="auto">
+  <ul>
+    <li><samp>Sport : Badminton 🏸 (Niveau régional), Course à pied 🏃, Vélo 🚲</samp></li>
+    <li><samp>Loisirs : Lecture 📚, Cinéma 🎥, Musique 🎶, Balades 🥾</samp></li>
+  </ul>
+</div>
+
 <br>
-<h2>✈️ <strong><samp>Mes voyages</strong></h2>
+<h2 align="center" dir="auto">✈️ <strong><samp>Mes voyages</strong></h2>
 
 <p align="center" dir="auto"><samp>Inde 🇮🇳 (6 mois), Berlin 🇩🇪 (6 mois), Espagne 🇪🇸, Portugal 🇵🇹, Allemagne 🇩🇪, Italie 🇮🇹, Belgique 🇧🇪.</p>
 
