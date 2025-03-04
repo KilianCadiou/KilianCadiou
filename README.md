@@ -1,5 +1,5 @@
 <h2 align="center">
-  <i>"</i><samp>Transformer les données pour des décisions éclairées.<i>"</i>
+  <i>"</i><samp>  Transformer les données pour des décisions éclairées.   <i>"</i>
 </h2>
 
 
