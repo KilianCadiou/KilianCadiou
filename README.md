@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Font_Awesome_5_solid_quote-left.svg" alt="quote-left" width="20" height="20">
-  Transformer les données pour des décisions éclairées.
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Font_Awesome_5_solid_quote-right.svg" alt="quote-right" width="20" height="20">
+  <i>"</i><samp> Transformer les données pour des décisions éclairées. <i>"</i>
 </p>
+
 
 
 
