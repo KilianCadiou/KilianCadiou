@@ -13,7 +13,7 @@
 
 <hr>
 
-<h2>🎯 <strong><samp>Ma recherche d'opportunités:</strong></h2>
+<h2 align="center" dir="auto">🎯 <strong><samp>Ma recherche d'opportunités:</strong></h2>
 
 <p align="center" dir="auto"><samp>Nouvellement diplômé de la Wild Code School pour le titre RNCP niveau 6 de <a href="https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst">Data Analyst</a>, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.</p>
 
