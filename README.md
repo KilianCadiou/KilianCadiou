@@ -13,11 +13,11 @@
 
 <hr>
 
-<h2>🎯 <strong>Ma recherche d'opportunités:</strong></h2>
+<h2>🎯 <strong><samp>Ma recherche d'opportunités:</strong></h2>
 
-<p>Nouvellement diplômé de la Wild Code School pour le titre RNCP niveau 6 de <a href="https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst">Data Analyst</a>, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.</p>
+<p><samp>Nouvellement diplômé de la Wild Code School pour le titre RNCP niveau 6 de <a href="https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst">Data Analyst</a>, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.</p>
 
-<p>Lieu de recherche : Rennes(35) et Alentours. Ouvert au télétravail partiel ou total.</p>
+<p><samp>Lieu de recherche : Rennes(35) et Alentours. Ouvert au télétravail partiel ou total.</p>
 
 <p><strong><em>Pour accéder à mon CV :</em></strong> <a href="https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing"><img src="https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white" alt="Site internet"></a></p>
 
