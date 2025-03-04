@@ -22,7 +22,7 @@
 <p align="center" dir="auto"><strong><samp>Pour accéder à mon CV :</samp></strong> <a href="https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing"><img src="https://img.shields.io/badge/Mon%20CV-green?logo=googledrive&logoColor=white" alt="Site internet"></a></p>
 
 <br>
-<h2 align="center" dir="auto">💬 <strong><samp>Mes citations préférées:</strong></h2>
+<h3 align="center" dir="auto">💬 <strong><samp>Mes citations préférées:</strong></h3>
 
 <p align="center" dir="auto"><em><samp>"Ce n’est pas parce que les choses sont difficiles que nous n’osons pas. C’est parce que nous n’osons pas qu’elles sont difficiles."</em>, <samp>Sénèque.</p>
 
@@ -32,13 +32,13 @@
 
 <p align="center" dir="auto"><em><samp>"Pourquoi tombons-nous ? Pour que nous puissions apprendre à nous relever."</em>, <samp>Thomas Wayne.</p>
 <br>
-<h2 align="center" dir="auto">💁‍♂️ <strong><samp>Mes passions</strong></h2>
+<h3 align="center" dir="auto">💁‍♂️ <strong><samp>Mes passions</strong></h3>
 
 <p align="center" dir="auto"><samp>Sport : Badminton 🏸 (Niveau régional), Course à pied 🏃, Vélo 🚲<br>Loisirs : Lecture 📚, Cinéma 🎥, Musique 🎶, Balades 🥾
 </p>
 
 <br>
-<h2 align="center" dir="auto">✈️ <strong><samp>Mes voyages</strong></h2>
+<h3 align="center" dir="auto">✈️ <strong><samp>Mes voyages</strong></h3>
 
 <p align="center" dir="auto"><samp>Inde 🇮🇳 (6 mois), Berlin 🇩🇪 (6 mois), Espagne 🇪🇸, Portugal 🇵🇹, Allemagne 🇩🇪, Italie 🇮🇹, Belgique 🇧🇪.</p>
 
