@@ -5,10 +5,7 @@
   🔥 Data Analyst / Data Scientist / Business Intelligence.<br>
   ✨ Langages favoris: Python, SQL, Dax.<br>
   🎨 Pour accéder à mon <a href="https://kiliancadiou.github.io/" target="_blank">Portfolio</a>.<br>
-</p>
 
-<p align="center" dir="auto">
-  <samp>
   <a href="https://github.com/KilianCadiou" target="_blank">GitHub</a> | 
   <a href="https://www.linkedin.com/in/kiliancadiou/" target="_blank">LinkedIn</a> | 
   <a href="mailto:kiliancadiou@gmail.com" target="_blank">Email</a> | 
@@ -16,13 +13,6 @@
 </p>
 
 <hr>
-
-
-
-
-## 📫 **Mes Contacts**
-
-[![Gmail](https://img.shields.io/badge/Gmail-ec0e0e?logo=gmail&logoColor=white)](mailto:kiliancadiou@gmail.com)   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-2c62f1?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kiliancadiou/)
 
 
 ## 🎯 **Ma recherche d'opportunités:**
