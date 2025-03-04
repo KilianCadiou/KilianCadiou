@@ -34,7 +34,7 @@
 <br>
 <h2 align="center" dir="auto">💁‍♂️ <strong><samp>Mes passions</strong></h2>
 
-<p align="center" dir="auto">Sport : Badminton 🏸 (Niveau régional), Course à pied 🏃, Vélo 🚲<br>Loisirs : Lecture 📚, Cinéma 🎥, Musique 🎶, Balades 🥾
+<p align="center" dir="auto"><samp>Sport : Badminton 🏸 (Niveau régional), Course à pied 🏃, Vélo 🚲<br>Loisirs : Lecture 📚, Cinéma 🎥, Musique 🎶, Balades 🥾
 </p>
 
 <br>
