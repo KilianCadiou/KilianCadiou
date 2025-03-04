@@ -1,23 +1,19 @@
 <hr>
+
 <p align="center" dir="auto">
   <samp>Bienvenue, moi c'est Kilian.<br>
   🔥 Data Analyst / Data Scientist / Business Intelligence.<br>
   ✨ Langages favoris: Python, SQL, Dax.<br>
   🎨 Pour accéder à mon <a href="https://kiliancadiou.github.io/" target="_blank">Portfolio</a>.<br>
-
-  <a href="https://github.com/KilianCadiou" target="_blank" title="GitHub">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="24" height="24">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kiliancadiou/" target="_blank" title="LinkedIn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="24" height="24">
-  </a>&nbsp;&nbsp;
-  <a href="mailto:kiliancadiou@gmail.com" target="_blank" title="Email">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Font_Awesome_5_regular_envelope.svg" alt="Email" width="24" height="24">
-  </a>&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1ir8LKCxzwaJlx5FWDULc2NMgPnwInPD7/view?usp=drive_link" target="_blank" title="Mon CV">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Font_Awesome_5_regular_file-alt.svg" alt="Mon CV" width="24" height="24">
-  </a>
 </p>
+
+<p align="center" dir="auto">
+  <a href="https://github.com/KilianCadiou" target="_blank">GitHub</a> | 
+  <a href="https://www.linkedin.com/in/kiliancadiou/" target="_blank">LinkedIn</a> | 
+  <a href="mailto:kiliancadiou@gmail.com" target="_blank">Email</a> | 
+  <a href="https://drive.google.com/file/d/1ir8LKCxzwaJlx5FWDULc2NMgPnwInPD7/view?usp=drive_link" target="_blank">CV</a>
+</p>
+
 <hr>
 
 
