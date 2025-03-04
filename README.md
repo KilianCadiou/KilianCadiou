@@ -1,3 +1,5 @@
+:quotations: Transformer les données pour des décisions éclairées. :quotations:
+
 <hr>
 
 <p align="center" dir="auto">
