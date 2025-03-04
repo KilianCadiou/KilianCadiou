@@ -1,6 +1,6 @@
-<h1 align="center">
-  <i>"</i><samp>  Transformer les données pour des décisions éclairées.   <i>"</i>
-</h1>
+<p align="center">
+  <i>"</i><samp><font size=”5″>  Transformer les données pour des décisions éclairées.   </font><i>"</i>
+</p>
 
 
 <hr>
