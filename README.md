@@ -5,17 +5,15 @@
   🔥 Data Analyst / Data Scientist / Business Intelligence.<br>
   ✨ Langages favoris: Python, SQL, Dax.<br>
   🎨 Pour accéder à mon <a href="https://kiliancadiou.github.io/" target="_blank">Portfolio</a>.<br>
-</p>
-<p align="center" dir="auto">
-  <samp>
   <a href="https://github.com/KilianCadiou" target="_blank">GitHub</a> | 
   <a href="https://www.linkedin.com/in/kiliancadiou/" target="_blank">LinkedIn</a> | 
   <a href="mailto:kiliancadiou@gmail.com" target="_blank">Email</a> | 
   <a href="https://drive.google.com/file/d/1ir8LKCxzwaJlx5FWDULc2NMgPnwInPD7/view?usp=drive_link" target="_blank">CV</a>
-</p>
+</samp>
 
 <hr>
-🎯 <strong>Ma recherche d'opportunités:</strong>
+
+<h2>🎯 <strong>Ma recherche d'opportunités:</strong></h2>
 
 <p>Nouvellement diplômé de la Wild Code School pour le titre RNCP niveau 6 de <a href="https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst">Data Analyst</a>, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.</p>
 
@@ -45,4 +43,3 @@
 <p>Inde 🇮🇳 (6 mois), Berlin 🇩🇪 (6 mois), Espagne 🇪🇸, Portugal 🇵🇹, Allemagne 🇩🇪, Italie 🇮🇹, Belgique 🇧🇪.</p>
 
 <p>J'adore également découvrir d'autres régions en France 🇫🇷.</p>
-
