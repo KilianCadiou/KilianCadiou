@@ -9,7 +9,7 @@
 <p align="center" dir="auto">
   <samp>Bienvenue, moi c'est Kilian.<br><br>
   🔥 Data Analyst / Data Scientist / Business Intelligence.<br><br>
-  ✨ Langages favoris: Python, SQL, Dax.<br><br>
+  ✨ Langages favoris:<br>Python, SQL, Dax.<br><br>
   🎨 <a href="https://kiliancadiou.github.io/" target="_blank">Mon Portfolio</a><br><br>
   <a href="https://github.com/KilianCadiou" target="_blank">GitHub</a> | 
   <a href="https://www.linkedin.com/in/kiliancadiou/" target="_blank">LinkedIn</a> | 
@@ -23,7 +23,7 @@
 
 <p align="center" dir="auto"><samp>Nouvellement diplômé de la Wild Code School pour le titre RNCP niveau 6 de <a href="https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst">Data Analyst</a>, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.</p>
 
-<p align="center" dir="auto"><samp>Lieu de recherche : <br>Rennes(35) et Alentours.<br>Ouvert au télétravail partiel ou total.</p>
+<p align="center" dir="auto"><samp>Lieu de recherche : <br>Rennes (35) et Alentours.<br>Ouvert au télétravail partiel ou total.</p>
 
 <p align="center" dir="auto"><samp><a href="https://drive.google.com/file/d/1SELiuFPDsDE7FNEJnj_RpgmmFSA7Spq5/view?usp=sharing" target="_blank">Mon CV</a></p>
 
