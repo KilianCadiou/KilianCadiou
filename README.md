@@ -14,7 +14,7 @@
   <a href="https://github.com/KilianCadiou" target="_blank">GitHub</a> | 
   <a href="https://www.linkedin.com/in/kiliancadiou/" target="_blank">LinkedIn</a> | 
   <a href="mailto:kiliancadiou@gmail.com" target="_blank">Email</a> | 
-  <a href="https://drive.google.com/file/d/1ir8LKCxzwaJlx5FWDULc2NMgPnwInPD7/view?usp=drive_link" target="_blank">CV</a>
+  <a href="https://drive.google.com/file/d/1pGEWTzEiTC4P-1EJFL0cH99N5UZZV_uf/view?usp=sharing" target="_blank">CV</a>
 </samp>
 
 <hr>
