@@ -1,9 +1,7 @@
 <h1 align="center">
   <i>"</i><samp> Transformer les données pour des décisions éclairées. </samp><i>"</i>
 </h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KilianCadiou/KilianCadiou/refs/heads/main/IMAGES/banni%C3%A8re.png" alt="Bannière" width="800">
-</p>
+
 
 <p align="center" dir="auto">
   <samp>Bienvenue, moi c'est Kilian.<br><br>
@@ -15,8 +13,9 @@
   <a href="mailto:kiliancadiou@gmail.com" target="_blank">Email</a> | 
   <a href="https://drive.google.com/file/d/1pGEWTzEiTC4P-1EJFL0cH99N5UZZV_uf/view?usp=sharing" target="_blank">CV</a>
 </samp>
-
-<hr>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KilianCadiou/KilianCadiou/refs/heads/main/IMAGES/banni%C3%A8re.png" alt="Bannière" width="800">
+</p><hr>
 
 <h3 align="center" dir="auto">🎯 <strong><samp>Ma recherche d'opportunités:</strong></h3>
 
