@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <div style="width: 800px; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+  <div style="width: 80px; height: 30px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/KilianCadiou/KilianCadiou/refs/heads/main/IMAGES/DALL%C2%B7E%202025-03-12%2016.53.04%20-%20A%20futuristic%20and%20dynamic%20cover%20image%20representing%20data%20analysis%2C%20without%20any%20logos%20or%20text.%20The%20image%20features%20vibrant%20neon%20blue%20and%20purple%20tones%20with.webp" 
          alt="Bannière" 
          style="width: 100%; height: 100%; object-fit: cover;">
