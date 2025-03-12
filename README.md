@@ -1,12 +1,9 @@
 <h1 align="center">
   <i>"</i><samp> Transformer les données pour des décisions éclairées. </samp><i>"</i>
 </h1>
-<hr>
 <p align="center">
   <img src="https://raw.githubusercontent.com/KilianCadiou/KilianCadiou/refs/heads/main/IMAGES/banni%C3%A8re.png" alt="Bannière" width="800">
 </p>
-
-<hr>
 
 <p align="center" dir="auto">
   <samp>Bienvenue, moi c'est Kilian.<br><br>
