@@ -2,7 +2,6 @@
   <i>"</i><samp> Transformer les données pour des décisions éclairées. </samp><i>"</i>
 </h1>
 
-
 <p align="center" dir="auto">
   <samp>Bienvenue, moi c'est Kilian.<br><br>
   🔥 Data Analyst / Data Scientist / Business Intelligence.<br><br>
@@ -13,9 +12,12 @@
   <a href="mailto:kiliancadiou@gmail.com" target="_blank">Email</a> | 
   <a href="https://drive.google.com/file/d/1pGEWTzEiTC4P-1EJFL0cH99N5UZZV_uf/view?usp=sharing" target="_blank">CV</a>
 </samp>
+  
 <p align="center">
   <img src="https://raw.githubusercontent.com/KilianCadiou/KilianCadiou/refs/heads/main/IMAGES/banni%C3%A8re.png" alt="Bannière" width="800">
-</p><hr>
+</p>
+
+<hr>
 
 <h3 align="center" dir="auto">🎯 <strong><samp>Ma recherche d'opportunités:</strong></h3>
 
@@ -24,6 +26,8 @@
 <p align="center" dir="auto"><samp>Lieu de recherche : <br>Rennes (35) et Alentours.<br>Ouvert au télétravail partiel ou total.</p>
 
 <p align="center" dir="auto"><samp><a href="https://drive.google.com/file/d/1pGEWTzEiTC4P-1EJFL0cH99N5UZZV_uf/view?usp=sharing" target="_blank">Mon CV</a></p>
+
+<hr>
 
 <br>
 <h3 align="center" dir="auto">💬 <strong><samp>Mes citations préférées:</strong></h3>
@@ -35,11 +39,15 @@
 <p align="center" dir="auto"><em><samp>"Il y a du bon en ce monde, Monsieur Frodon, et il faut se battre pour cela."</em>, <samp>Sam Gamegie le Brave.</p>
 
 <p align="center" dir="auto"><em><samp>"Pourquoi tombons-nous ? Pour que nous puissions apprendre à nous relever."</em>, <samp>Thomas Wayne.</p>
+
+<hr>
 <br>
 <h3 align="center" dir="auto">💁‍♂️ <strong><samp>Mes passions</strong></h3>
 
 <p align="center" dir="auto"><samp>Sport : Badminton 🏸 (Niveau régional), Course à pied 🏃, Vélo 🚲<br>Loisirs : Lecture 📚, Cinéma 🎥, Musique 🎶, Balades 🥾
 </p>
+
+<hr>
 
 <br>
 <h3 align="center" dir="auto">✈️ <strong><samp>Mes voyages</strong></h3>
