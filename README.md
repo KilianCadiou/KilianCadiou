@@ -21,7 +21,7 @@
 
 <h3 align="center" dir="auto">🎯 <strong><samp>Ma recherche d'opportunités:</strong></h3>
 
-<p align="center" dir="auto"><samp>Nouvellement diplômé de la Wild Code School pour le titre RNCP niveau 6 de <a href="https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst">Data Analyst</a>, je recherche une opportunité dans le domaine de la Data afin de continuer à développer mes compétences et connaissances dans ce domaine passionnant.</p>
+<p align="center" dir="auto"><samp>Diplômé en tant que <a href="https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst">Data Analyst</a> avec un solide parcours en entrepreneuriat et en stratégie d’entreprise, je possède une forte capacité analytique et une excellente maîtrise des outils de traitement et de visualisation de données (Python, SQL, Power BI). Après plusieurs années d’expérience en conseil et en gestion de projet, j’ai choisi de me spécialiser dans l’analyse de données afin d’exploiter mon esprit logique et ma rigueur au service de la prise de décision. Curieux, adaptable et orienté résultats, je suis prêt à relever de nouveaux défis.</p>
 
 <p align="center" dir="auto"><samp>Lieu de recherche : <br>Rennes (35) et Alentours.<br>Ouvert au télétravail partiel ou total.</p>
 
