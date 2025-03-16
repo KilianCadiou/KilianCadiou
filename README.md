@@ -33,6 +33,9 @@
 
 <p align="center" dir="auto"><em><samp>"Ce n’est pas parce que les choses sont difficiles que nous n’osons pas. C’est parce que nous n’osons pas qu’elles sont difficiles."</em>, <samp>Sénèque.</p>
 
+
+<p align="center" dir="auto"><em><samp>"Je vais te dire un truc que tu sais déjà. : le soleil et les arcs en ciel, c'est pas le monde. Il n' y a pas de vraies tempêtes, de lourdes épreuves. Aussi grand et fort que tu sois, la vie te mettra à genoux et te laissera comme ça en permanence si tu la laisses faire. Toi, moi, n'importe qui, personne ne frappe aussi fort que la vie. C'est pas d'être un bon cogneur qui compte, l'important c'est de se faire cogner et d'aller quand même de l'avant. C'est de pouvoir encaisser sans jamais flancher. C'est comme ça qu'on gagne. "</em>, <samp>Rocky Balboa.</p>
+
 <p align="center" dir="auto"><em><samp>"Peu importe que vous ayez du style, une réputation, ou de l'argent, si vous n'avez pas bon cœur, vous ne valez rien."</em>, <samp>Louis de Funès.</p>
 
 <p align="center" dir="auto"><em><samp>"Il y a du bon en ce monde, Monsieur Frodon, et il faut se battre pour cela."</em>, <samp>Sam Gamegie le Brave.</p>
