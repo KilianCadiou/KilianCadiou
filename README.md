@@ -40,8 +40,6 @@
 
 <p align="center" dir="auto"><em><samp>"Il y a du bon en ce monde, Monsieur Frodon, et il faut se battre pour cela."</em>, <samp>Sam Gamegie le Brave.</p>
 
-<p align="center" dir="auto"><em><samp>"Pourquoi tombons-nous ? Pour que nous puissions apprendre à nous relever."</em>, <samp>Thomas Wayne.</p>
-
 <hr>
 
 <h3 align="center" dir="auto">💁‍♂️ <strong><samp>Mes passions</strong></h3>
