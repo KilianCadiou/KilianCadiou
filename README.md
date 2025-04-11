@@ -9,23 +9,12 @@
   🎨 <a href="https://kiliancadiou.github.io/" target="_blank">Mon Portfolio</a><br><br>
   <a href="https://github.com/KilianCadiou" target="_blank">GitHub</a> | 
   <a href="https://www.linkedin.com/in/kiliancadiou/" target="_blank">LinkedIn</a> | 
-  <a href="mailto:kiliancadiou@gmail.com" target="_blank">Email</a> | 
-  <a href="https://drive.google.com/file/d/1pGEWTzEiTC4P-1EJFL0cH99N5UZZV_uf/view?usp=sharing" target="_blank">CV</a>
+  <a href="mailto:kiliancadiou@gmail.com" target="_blank">Email</a>
 </samp>
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/KilianCadiou/KilianCadiou/refs/heads/main/IMAGES/banni%C3%A8re.png" alt="Bannière" width="800">
 </p>
-
-<hr>
-
-<h3 align="center" dir="auto">🎯 <strong><samp>Ma recherche d'opportunités:</strong></h3>
-
-<p align="center" dir="auto"><samp>Diplômé en tant que <a href="https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst">Data Analyst</a> avec un solide parcours en entrepreneuriat et en stratégie d’entreprise, je possède une forte capacité analytique et une excellente maîtrise des outils de traitement et de visualisation de données (Python, SQL, Power BI).<br><br>Après plusieurs années d’expérience en conseil et en gestion de projet, j’ai choisi de me spécialiser dans l’analyse de données afin d’exploiter mon esprit logique et ma rigueur au service de la prise de décision.<br><br>Curieux, adaptable et orienté résultats, je suis prêt à relever de nouveaux défis.<br><br></p>
-
-<p align="center" dir="auto"><samp>Lieu de recherche : <br>Rennes (35) et Alentours.<br>Ouvert au télétravail partiel ou total.</p>
-
-<p align="center" dir="auto"><samp><a href="https://drive.google.com/file/d/1pGEWTzEiTC4P-1EJFL0cH99N5UZZV_uf/view?usp=sharing" target="_blank">Mon CV</a></p>
 
 <hr>
 
